@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T17:24:40.057609",
+ "generated_at": "2026-09-08T20:10:54.657172",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -63,6 +63,16 @@
    "direction": "hausse"
   },
   {
+   "slug": "padel-15-paris",
+   "source": "anybuddy",
+   "name": "padel-15-paris",
+   "cp": "75015",
+   "prix_30j": 60.0,
+   "prix_recent": 85.0,
+   "delta_pct": 41.7,
+   "direction": "hausse"
+  },
+  {
    "slug": "4padel-antony-morangis",
    "source": "anybuddy",
    "name": "4padel-antony-morangis",
@@ -109,16 +119,6 @@
    "cp": "77100",
    "prix_30j": 48.0,
    "prix_recent": 64.0,
-   "delta_pct": 33.3,
-   "direction": "hausse"
-  },
-  {
-   "slug": "padel-15-paris",
-   "source": "anybuddy",
-   "name": "padel-15-paris",
-   "cp": "75015",
-   "prix_30j": 60.0,
-   "prix_recent": 80.0,
    "delta_pct": 33.3,
    "direction": "hausse"
   }
