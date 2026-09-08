@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T20:10:48.983304",
+ "generated_at": "2026-09-08T22:57:46.230055",
  "global": {
   "n_clubs": 143,
   "n_clubs_par_source": {
@@ -9,11 +9,11 @@
    "urbanpadel": 4
   },
   "n_sessions_live_par_source": {
-   "anybuddy": 82138,
-   "doinsport": 5229,
-   "urbanpadel": 7625
+   "anybuddy": 82214,
+   "doinsport": 5367,
+   "urbanpadel": 8124
   },
-  "n_sessions_live": 94992,
+  "n_sessions_live": 95705,
   "n_sessions_history": 542240,
   "pop_idf": 12258660
  },
