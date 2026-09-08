@@ -1616,11 +1616,11 @@ date,jour,heure,salle,lieu,cours,statut,places_restantes,capacite,presents,locke
 2026-09-08,Mardi,17:30,Burning Bar Paris 7,Burning Bar Paris 7,Full Body On Fire Rikash,disponible,,25,0,True,False,2026-09-08 15:29
 2026-09-08,Mardi,18:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Laura,complet,0,25,25,True,False,2026-09-08 15:29
 2026-09-08,Mardi,18:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Lisa,complet,0,25,25,True,False,2026-09-08 15:29
-2026-09-08,Mardi,19:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Laura,presque complet,1,25,24,False,False,2026-09-08 15:29
+2026-09-08,Mardi,19:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Laura,presque complet,1,25,24,True,False,2026-09-08 15:29
 2026-09-08,Mardi,19:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Laura Burning Bar 16eme Fermé La période de réservation est terminée 20:30 50 min Burning Core Shape Jeremie,disponible,,25,0,True,True,2026-09-08 19:25
-2026-09-08,Mardi,19:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Lisa,presque complet,1,25,24,False,False,2026-09-08 15:29
+2026-09-08,Mardi,19:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Lisa,presque complet,1,25,24,True,False,2026-09-08 15:29
 2026-09-08,Mardi,19:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Lisa Burning Bar 7eme Fermé La période de réservation est terminée 20:30 50 min,disponible,,25,0,True,True,2026-09-08 19:25
-2026-09-08,Mardi,20:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Jeremie,disponible,,25,0,False,False,2026-09-08 15:29
-2026-09-08,Mardi,20:30,Burning Bar Paris 7,Burning Bar Paris 7,Full Body On Fire Carla Rey,disponible,,25,0,False,False,2026-09-08 15:29
-2026-09-08,Mardi,21:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Jeremie,disponible,,25,0,False,False,2026-09-08 19:25
-2026-09-08,Mardi,21:30,Burning Bar Paris 7,Burning Bar Paris 7,Full Body On Fire Carla Rey,disponible,,25,0,False,False,2026-09-08 19:25
+2026-09-08,Mardi,20:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Jeremie,disponible,,25,0,True,False,2026-09-08 15:29
+2026-09-08,Mardi,20:30,Burning Bar Paris 7,Burning Bar Paris 7,Full Body On Fire Carla Rey,disponible,,25,0,True,False,2026-09-08 15:29
+2026-09-08,Mardi,21:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Jeremie,disponible,,25,0,True,False,2026-09-08 19:25
+2026-09-08,Mardi,21:30,Burning Bar Paris 7,Burning Bar Paris 7,Full Body On Fire Carla Rey,disponible,,25,0,True,False,2026-09-08 19:25
