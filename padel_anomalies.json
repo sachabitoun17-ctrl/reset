@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T11:49:41.736144",
+ "generated_at": "2026-09-09T16:14:34.133218",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -28,8 +28,8 @@
    "name": "4padel-creteil",
    "cp": "94000",
    "prix_30j": 48.0,
-   "prix_recent": 74.0,
-   "delta_pct": 54.2,
+   "prix_recent": 78.0,
+   "delta_pct": 62.5,
    "direction": "hausse"
   },
   {
