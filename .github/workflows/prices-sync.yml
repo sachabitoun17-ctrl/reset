@@ -33,20 +33,7 @@ jobs:
 
       - name: Commit brand_prices.json si changement
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add brand_prices.json
-          if git diff --cached --quiet; then
-            echo "Aucun changement de prix."
-          else
-            git commit -m "Sync prix ($(date -u +%Y-%m-%d))"
-            ok=0
-            for i in 1 2 3 4; do
-              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && { ok=1; break; }
-              echo "retry push $i"; sleep 5
-            done
-            [ "$ok" = 1 ] || { echo "::error::push rejeté 4 fois — les données de ce run ne sont PAS persistées"; exit 1; }
-          fi
+          ./ci_push.sh "Sync prix ($(date -u +%Y-%m-%d))" brand_prices.json
       - name: Healthcheck ping (si HEALTHCHECK_URL défini)
         if: always()
         env:

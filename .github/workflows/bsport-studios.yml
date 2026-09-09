@@ -57,28 +57,7 @@ jobs:
 
       - name: Commit si changement
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add thenewme_data.json thenewme_seances.csv thenewme.html \
-                  lecercle_data.json lecercle_seances.csv lecercle.html \
-                  spacecycle_data.json spacecycle_seances.csv spacecycle.html \
-                  poses_data.json poses_seances.csv poses.html \
-                  belly_data.json belly_seances.csv belly.html \
-                  athletx_data.json athletx_seances.csv athletx.html \
-                  snakeandtwist_data.json snakeandtwist_seances.csv snakeandtwist.html \
-                  driphiit_data.json driphiit_seances.csv driphiit.html \
-                  kore_data.json kore_seances.csv kore.html
-          if git diff --cached --quiet; then
-            echo "Aucun changement."
-          else
-            git commit -m "Scrap bsport ($(date -u +%Y-%m-%dT%H:%M)Z)"
-            ok=0
-            for i in 1 2 3 4; do
-              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && { ok=1; break; }
-              echo "retry push $i"; sleep 5
-            done
-            [ "$ok" = 1 ] || { echo "::error::push rejeté 4 fois — les données de ce run ne sont PAS persistées"; exit 1; }
-          fi
+          ./ci_push.sh "Scrap bsport ($(date -u +%Y-%m-%dT%H:%M)Z)" thenewme_data.json thenewme_seances.csv thenewme.html lecercle_data.json lecercle_seances.csv lecercle.html spacecycle_data.json spacecycle_seances.csv spacecycle.html poses_data.json poses_seances.csv poses.html belly_data.json belly_seances.csv belly.html athletx_data.json athletx_seances.csv athletx.html snakeandtwist_data.json snakeandtwist_seances.csv snakeandtwist.html driphiit_data.json driphiit_seances.csv driphiit.html kore_data.json kore_seances.csv kore.html
 
       - name: Sync vers Supabase (graceful)
         if: always()

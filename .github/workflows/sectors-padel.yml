@@ -72,27 +72,11 @@ jobs:
       # ============== COMMIT ==============
       - name: Commit si changement
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # padel_idf_history.json.gz est OBLIGATOIRE ici : l'élagage y déplace
           # les créneaux sortis de la fenêtre. Sans ce commit, ils seraient
           # archivés dans le runner puis jetés avec lui, alors que le store
           # vivant élagué, lui, serait committé — donc perdus en local.
-          git add padel_idf_data.json padel_idf_history.json.gz padel_idf_creneaux.csv \
-                  padel_idf_clubs.json doinsport_idf_clubs.json playtomic_idf_clubs.json \
-                  padel_club_unified.json padel_etude_kpis.json padel_insights_data.json \
-                  padel_anomalies.json
-          if git diff --cached --quiet; then
-            echo "Aucun changement."
-          else
-            git commit -m "Padel IDF scrape + insights ($(date -u +%Y-%m-%dT%H:%M)Z)"
-            ok=0
-            for i in 1 2 3 4; do
-              git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && { ok=1; break; }
-              echo "retry push $i"; sleep 5
-            done
-            [ "$ok" = 1 ] || { echo "::error::push rejeté 4 fois — les données de ce run ne sont PAS persistées"; exit 1; }
-          fi
+          ./ci_push.sh "Padel IDF scrape + insights ($(date -u +%Y-%m-%dT%H:%M)Z)" padel_idf_data.json padel_idf_history.json.gz padel_idf_creneaux.csv padel_idf_clubs.json doinsport_idf_clubs.json playtomic_idf_clubs.json padel_club_unified.json padel_etude_kpis.json padel_insights_data.json padel_anomalies.json
       - name: Healthcheck ping (si HEALTHCHECK_URL défini)
         if: always()
         env:
