@@ -812,8 +812,8 @@ date,jour,heure,cours,coach,statut,places_restantes,presents,locked,releve
 2026-09-09,Mercredi,12:15,Sense Sculpt - Core Focus Anna,,disponible,,,True,2026-09-09 10:54
 2026-09-09,Mercredi,13:15,Power Sense,Full Body Anna,disponible,,,True,2026-09-09 10:54
 2026-09-09,Mercredi,15:30,Power Sense,Full Body Safia,disponible,,,True,2026-09-09 10:54
-2026-09-09,Mercredi,16:30,Sense Flow,Full Body Safia,disponible,,,False,2026-09-09 15:39
-2026-09-09,Mercredi,17:30,Power Sense,Full Body Sarah D,presque complet,1,4,False,2026-09-09 15:39
-2026-09-09,Mercredi,18:30,Sense Sculpt - Booty & Abs Sarah D,,presque complet,1,4,False,2026-09-09 15:39
-2026-09-09,Mercredi,19:30,Power Sense,Full Body Alexandra,disponible,,,False,2026-09-09 15:39
-2026-09-09,Mercredi,20:30,Sense Sculpt - Booty & Abs Alexandra,,presque complet,1,4,False,2026-09-09 15:39
+2026-09-09,Mercredi,16:30,Sense Flow,Full Body Safia,disponible,,,True,2026-09-09 15:39
+2026-09-09,Mercredi,17:30,Power Sense,Full Body Sarah D,presque complet,1,4,True,2026-09-09 15:39
+2026-09-09,Mercredi,18:30,Sense Sculpt - Booty & Abs Sarah D,,presque complet,1,4,True,2026-09-09 15:39
+2026-09-09,Mercredi,19:30,Power Sense,Full Body Alexandra,disponible,,,True,2026-09-09 15:39
+2026-09-09,Mercredi,20:30,Sense Sculpt - Booty & Abs Alexandra,,presque complet,1,4,True,2026-09-09 15:39
