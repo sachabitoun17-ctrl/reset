@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T03:50:32.407149",
+ "generated_at": "2026-09-10T08:50:19.295314",
  "heatmap": {
   "days": [
    "Lundi",
@@ -26,13 +26,13 @@
     },
     {
      "heure": 9,
-     "offered": 5291,
+     "offered": 5293,
      "demand": 2174,
      "occupation_pct": 41
     },
     {
      "heure": 10,
-     "offered": 7040,
+     "offered": 7042,
      "demand": 2436,
      "occupation_pct": 35
     },
@@ -44,73 +44,73 @@
     },
     {
      "heure": 12,
-     "offered": 7704,
-     "demand": 2798,
+     "offered": 7707,
+     "demand": 2799,
      "occupation_pct": 36
     },
     {
      "heure": 13,
-     "offered": 6620,
+     "offered": 6626,
      "demand": 2144,
      "occupation_pct": 32
     },
     {
      "heure": 14,
-     "offered": 7435,
+     "offered": 7438,
      "demand": 3008,
      "occupation_pct": 40
     },
     {
      "heure": 15,
-     "offered": 7306,
-     "demand": 2943,
+     "offered": 7310,
+     "demand": 2944,
      "occupation_pct": 40
     },
     {
      "heure": 16,
-     "offered": 6683,
-     "demand": 2941,
+     "offered": 6689,
+     "demand": 2943,
      "occupation_pct": 44
     },
     {
      "heure": 17,
-     "offered": 6982,
-     "demand": 3865,
+     "offered": 6996,
+     "demand": 3876,
      "occupation_pct": 55
     },
     {
      "heure": 18,
-     "offered": 7416,
-     "demand": 5171,
+     "offered": 7441,
+     "demand": 5183,
      "occupation_pct": 70
     },
     {
      "heure": 19,
-     "offered": 6879,
-     "demand": 5072,
+     "offered": 6897,
+     "demand": 5082,
      "occupation_pct": 74
     },
     {
      "heure": 20,
-     "offered": 6573,
-     "demand": 4728,
+     "offered": 6588,
+     "demand": 4732,
      "occupation_pct": 72
     },
     {
      "heure": 21,
-     "offered": 5995,
+     "offered": 6009,
      "demand": 4161,
      "occupation_pct": 69
     },
     {
      "heure": 22,
-     "offered": 3404,
-     "demand": 1912,
+     "offered": 3406,
+     "demand": 1914,
      "occupation_pct": 56
     },
     {
      "heure": 23,
-     "offered": 468,
+     "offered": 469,
      "demand": 219,
      "occupation_pct": 47
     }
@@ -124,19 +124,19 @@
     },
     {
      "heure": 8,
-     "offered": 1875,
+     "offered": 1887,
      "demand": 732,
      "occupation_pct": 39
     },
     {
      "heure": 9,
-     "offered": 5067,
+     "offered": 5080,
      "demand": 1944,
      "occupation_pct": 38
     },
     {
      "heure": 10,
-     "offered": 7225,
+     "offered": 7238,
      "demand": 2549,
      "occupation_pct": 35
     },
@@ -148,62 +148,62 @@
     },
     {
      "heure": 12,
-     "offered": 7966,
+     "offered": 7968,
      "demand": 3058,
      "occupation_pct": 38
     },
     {
      "heure": 13,
-     "offered": 6848,
+     "offered": 6850,
      "demand": 2352,
      "occupation_pct": 34
     },
     {
      "heure": 14,
-     "offered": 7445,
-     "demand": 2809,
+     "offered": 7446,
+     "demand": 2810,
      "occupation_pct": 38
     },
     {
      "heure": 15,
-     "offered": 7300,
-     "demand": 2915,
+     "offered": 7302,
+     "demand": 2916,
      "occupation_pct": 40
     },
     {
      "heure": 16,
-     "offered": 6903,
+     "offered": 6905,
      "demand": 3141,
-     "occupation_pct": 46
+     "occupation_pct": 45
     },
     {
      "heure": 17,
-     "offered": 6781,
-     "demand": 3766,
+     "offered": 6782,
+     "demand": 3768,
      "occupation_pct": 56
     },
     {
      "heure": 18,
-     "offered": 7580,
-     "demand": 5471,
+     "offered": 7584,
+     "demand": 5474,
      "occupation_pct": 72
     },
     {
      "heure": 19,
      "offered": 6794,
-     "demand": 5183,
+     "demand": 5185,
      "occupation_pct": 76
     },
     {
      "heure": 20,
-     "offered": 6599,
-     "demand": 4948,
+     "offered": 6601,
+     "demand": 4949,
      "occupation_pct": 75
     },
     {
      "heure": 21,
-     "offered": 5829,
-     "demand": 4217,
+     "offered": 5832,
+     "demand": 4218,
      "occupation_pct": 72
     },
     {
@@ -222,25 +222,25 @@
    "Mercredi": [
     {
      "heure": 7,
-     "offered": 491,
+     "offered": 507,
      "demand": 119,
-     "occupation_pct": 24
+     "occupation_pct": 23
     },
     {
      "heure": 8,
-     "offered": 1825,
+     "offered": 1845,
      "demand": 598,
-     "occupation_pct": 33
+     "occupation_pct": 32
     },
     {
      "heure": 9,
-     "offered": 5330,
+     "offered": 5346,
      "demand": 1966,
      "occupation_pct": 37
     },
     {
      "heure": 10,
-     "offered": 7215,
+     "offered": 7234,
      "demand": 2321,
      "occupation_pct": 32
     },
@@ -277,31 +277,31 @@
     {
      "heure": 16,
      "offered": 7053,
-     "demand": 3505,
+     "demand": 3508,
      "occupation_pct": 50
     },
     {
      "heure": 17,
      "offered": 6621,
-     "demand": 4079,
+     "demand": 4087,
      "occupation_pct": 62
     },
     {
      "heure": 18,
-     "offered": 6898,
-     "demand": 5222,
+     "offered": 6899,
+     "demand": 5241,
      "occupation_pct": 76
     },
     {
      "heure": 19,
      "offered": 6337,
-     "demand": 5046,
+     "demand": 5062,
      "occupation_pct": 80
     },
     {
      "heure": 20,
-     "offered": 5978,
-     "demand": 4597,
+     "offered": 5979,
+     "demand": 4605,
      "occupation_pct": 77
     },
     {
@@ -319,7 +319,7 @@
     {
      "heure": 23,
      "offered": 463,
-     "demand": 240,
+     "demand": 241,
      "occupation_pct": 52
     }
    ],
@@ -332,8 +332,8 @@
     },
     {
      "heure": 8,
-     "offered": 1792,
-     "demand": 764,
+     "offered": 1793,
+     "demand": 765,
      "occupation_pct": 43
     },
     {
@@ -344,86 +344,86 @@
     },
     {
      "heure": 10,
-     "offered": 6655,
-     "demand": 2438,
+     "offered": 6656,
+     "demand": 2439,
      "occupation_pct": 37
     },
     {
      "heure": 11,
-     "offered": 6037,
-     "demand": 2162,
+     "offered": 6041,
+     "demand": 2167,
      "occupation_pct": 36
     },
     {
      "heure": 12,
-     "offered": 7504,
-     "demand": 3170,
+     "offered": 7507,
+     "demand": 3189,
      "occupation_pct": 42
     },
     {
      "heure": 13,
      "offered": 6332,
-     "demand": 2362,
+     "demand": 2369,
      "occupation_pct": 37
     },
     {
      "heure": 14,
      "offered": 6983,
-     "demand": 3052,
+     "demand": 3063,
      "occupation_pct": 44
     },
     {
      "heure": 15,
-     "offered": 6828,
-     "demand": 3092,
+     "offered": 6832,
+     "demand": 3106,
      "occupation_pct": 45
     },
     {
      "heure": 16,
-     "offered": 6491,
-     "demand": 3286,
+     "offered": 6492,
+     "demand": 3297,
      "occupation_pct": 51
     },
     {
      "heure": 17,
-     "offered": 6489,
-     "demand": 4039,
+     "offered": 6491,
+     "demand": 4045,
      "occupation_pct": 62
     },
     {
      "heure": 18,
-     "offered": 7032,
-     "demand": 5583,
+     "offered": 7042,
+     "demand": 5596,
      "occupation_pct": 79
     },
     {
      "heure": 19,
-     "offered": 6328,
-     "demand": 5319,
+     "offered": 6346,
+     "demand": 5337,
      "occupation_pct": 84
     },
     {
      "heure": 20,
-     "offered": 6350,
-     "demand": 5197,
+     "offered": 6364,
+     "demand": 5213,
      "occupation_pct": 82
     },
     {
      "heure": 21,
-     "offered": 5839,
-     "demand": 4477,
+     "offered": 5843,
+     "demand": 4483,
      "occupation_pct": 77
     },
     {
      "heure": 22,
      "offered": 3607,
-     "demand": 2302,
+     "demand": 2304,
      "occupation_pct": 64
     },
     {
      "heure": 23,
      "offered": 535,
-     "demand": 324,
+     "demand": 326,
      "occupation_pct": 61
     }
    ],
@@ -436,38 +436,38 @@
     },
     {
      "heure": 8,
-     "offered": 1656,
+     "offered": 1659,
      "demand": 660,
      "occupation_pct": 40
     },
     {
      "heure": 9,
-     "offered": 5161,
-     "demand": 2297,
+     "offered": 5166,
+     "demand": 2300,
      "occupation_pct": 45
     },
     {
      "heure": 10,
-     "offered": 6764,
-     "demand": 2683,
+     "offered": 6767,
+     "demand": 2692,
      "occupation_pct": 40
     },
     {
      "heure": 11,
      "offered": 6086,
-     "demand": 2405,
+     "demand": 2410,
      "occupation_pct": 40
     },
     {
      "heure": 12,
-     "offered": 7626,
-     "demand": 3379,
+     "offered": 7630,
+     "demand": 3385,
      "occupation_pct": 44
     },
     {
      "heure": 13,
-     "offered": 6566,
-     "demand": 2602,
+     "offered": 6567,
+     "demand": 2607,
      "occupation_pct": 40
     },
     {
@@ -479,13 +479,13 @@
     {
      "heure": 15,
      "offered": 7358,
-     "demand": 3601,
+     "demand": 3603,
      "occupation_pct": 49
     },
     {
      "heure": 16,
      "offered": 7244,
-     "demand": 4030,
+     "demand": 4031,
      "occupation_pct": 56
     },
     {
@@ -496,8 +496,8 @@
     },
     {
      "heure": 18,
-     "offered": 7212,
-     "demand": 5369,
+     "offered": 7213,
+     "demand": 5370,
      "occupation_pct": 74
     },
     {
@@ -509,13 +509,13 @@
     {
      "heure": 20,
      "offered": 6008,
-     "demand": 4406,
+     "demand": 4407,
      "occupation_pct": 73
     },
     {
      "heure": 21,
-     "offered": 4795,
-     "demand": 3302,
+     "offered": 4796,
+     "demand": 3304,
      "occupation_pct": 69
     },
     {
@@ -546,20 +546,20 @@
     },
     {
      "heure": 9,
-     "offered": 6163,
-     "demand": 3790,
+     "offered": 6184,
+     "demand": 3795,
      "occupation_pct": 61
     },
     {
      "heure": 10,
-     "offered": 5559,
-     "demand": 3503,
+     "offered": 5574,
+     "demand": 3509,
      "occupation_pct": 63
     },
     {
      "heure": 11,
-     "offered": 5497,
-     "demand": 3515,
+     "offered": 5498,
+     "demand": 3522,
      "occupation_pct": 64
     },
     {
@@ -571,31 +571,31 @@
     {
      "heure": 13,
      "offered": 5821,
-     "demand": 2734,
+     "demand": 2735,
      "occupation_pct": 47
     },
     {
      "heure": 14,
      "offered": 6729,
-     "demand": 3847,
+     "demand": 3848,
      "occupation_pct": 57
     },
     {
      "heure": 15,
-     "offered": 7126,
-     "demand": 4275,
+     "offered": 7127,
+     "demand": 4278,
      "occupation_pct": 60
     },
     {
      "heure": 16,
-     "offered": 6764,
-     "demand": 3972,
+     "offered": 6766,
+     "demand": 3977,
      "occupation_pct": 59
     },
     {
      "heure": 17,
-     "offered": 7278,
-     "demand": 4435,
+     "offered": 7279,
+     "demand": 4436,
      "occupation_pct": 61
     },
     {
@@ -625,7 +625,7 @@
     {
      "heure": 22,
      "offered": 2855,
-     "demand": 1279,
+     "demand": 1280,
      "occupation_pct": 45
     },
     {
@@ -645,79 +645,79 @@
     {
      "heure": 8,
      "offered": 1661,
-     "demand": 776,
+     "demand": 777,
      "occupation_pct": 47
     },
     {
      "heure": 9,
-     "offered": 6699,
-     "demand": 4503,
+     "offered": 6722,
+     "demand": 4509,
      "occupation_pct": 67
     },
     {
      "heure": 10,
-     "offered": 5665,
-     "demand": 4094,
+     "offered": 5683,
+     "demand": 4099,
      "occupation_pct": 72
     },
     {
      "heure": 11,
      "offered": 6594,
-     "demand": 4746,
+     "demand": 4752,
      "occupation_pct": 72
     },
     {
      "heure": 12,
-     "offered": 7110,
-     "demand": 3879,
+     "offered": 7111,
+     "demand": 3884,
      "occupation_pct": 55
     },
     {
      "heure": 13,
      "offered": 6681,
-     "demand": 3508,
+     "demand": 3513,
      "occupation_pct": 53
     },
     {
      "heure": 14,
      "offered": 7379,
-     "demand": 4434,
+     "demand": 4439,
      "occupation_pct": 60
     },
     {
      "heure": 15,
-     "offered": 7688,
-     "demand": 4952,
+     "offered": 7689,
+     "demand": 4959,
      "occupation_pct": 64
     },
     {
      "heure": 16,
      "offered": 7452,
-     "demand": 4969,
+     "demand": 4976,
      "occupation_pct": 67
     },
     {
      "heure": 17,
-     "offered": 7811,
-     "demand": 5255,
+     "offered": 7812,
+     "demand": 5263,
      "occupation_pct": 67
     },
     {
      "heure": 18,
      "offered": 8323,
-     "demand": 5664,
+     "demand": 5671,
      "occupation_pct": 68
     },
     {
      "heure": 19,
      "offered": 6476,
-     "demand": 3874,
+     "demand": 3875,
      "occupation_pct": 60
     },
     {
      "heure": 20,
      "offered": 6223,
-     "demand": 3854,
+     "demand": 3855,
      "occupation_pct": 62
     },
     {
@@ -744,92 +744,92 @@
    [
     "Dimanche",
     18,
-    5664
+    5671
    ],
    [
     "Jeudi",
     18,
-    5583
+    5596
    ],
    [
     "Mardi",
     18,
-    5471
+    5474
    ],
    [
     "Vendredi",
     18,
-    5369
+    5370
    ],
    [
     "Jeudi",
     19,
-    5319
+    5337
    ],
    [
     "Dimanche",
     17,
-    5255
+    5263
    ],
    [
     "Mercredi",
     18,
-    5222
+    5241
    ],
    [
     "Jeudi",
     20,
-    5197
+    5213
    ],
    [
     "Mardi",
     19,
-    5183
+    5185
    ],
    [
     "Lundi",
     18,
-    5171
+    5183
    ],
    [
     "Lundi",
     19,
-    5072
+    5082
    ],
    [
     "Mercredi",
     19,
-    5046
+    5062
    ],
    [
     "Dimanche",
     16,
-    4969
+    4976
    ],
    [
     "Dimanche",
     15,
-    4952
+    4959
    ],
    [
     "Mardi",
     20,
-    4948
+    4949
    ],
    [
     "Dimanche",
     11,
-    4746
+    4752
    ],
    [
     "Lundi",
     20,
-    4728
+    4732
    ],
    [
     "Mercredi",
     20,
-    4597
+    4605
    ],
    [
     "Samedi",
@@ -839,13 +839,13 @@
    [
     "Dimanche",
     9,
-    4503
+    4509
    ]
   ]
  },
  "elasticity": {
-  "slope": 0.435,
-  "intercept": 6.226,
+  "slope": 0.365,
+  "intercept": 6.531,
   "interpretation": "élasticité prix demande estimée (log-log)",
   "data": [
    {
@@ -853,7 +853,7 @@
     "name": "2v2-padel-club-cormeilles-en-parisis",
     "source": "anybuddy",
     "prix_median_90": 72.0,
-    "n_bookings": 1974,
+    "n_bookings": 2020,
     "cp": "95240"
    },
    {
@@ -861,7 +861,7 @@
     "name": "4-padel-montreuil",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 2596,
+    "n_bookings": 2662,
     "cp": "93100"
    },
    {
@@ -869,7 +869,7 @@
     "name": "4-padel-saint-ouen-saint-ouen-sur-seine",
     "source": "anybuddy",
     "prix_median_90": 48.0,
-    "n_bookings": 6267,
+    "n_bookings": 6366,
     "cp": "93400"
    },
    {
@@ -877,7 +877,7 @@
     "name": "4padel-antony-morangis",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 8826,
+    "n_bookings": 8978,
     "cp": "92160"
    },
    {
@@ -885,7 +885,7 @@
     "name": "4padel-argenteuil",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 15277,
+    "n_bookings": 15608,
     "cp": "95100"
    },
    {
@@ -893,7 +893,7 @@
     "name": "4padel-cao-saint-denis",
     "source": "anybuddy",
     "prix_median_90": 70.7,
-    "n_bookings": 7618,
+    "n_bookings": 7773,
     "cp": "93200"
    },
    {
@@ -901,7 +901,7 @@
     "name": "4padel-creteil",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 4422,
+    "n_bookings": 4524,
     "cp": "94000"
    },
    {
@@ -909,7 +909,7 @@
     "name": "4padel-epinay-sur-seine",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 10653,
+    "n_bookings": 10926,
     "cp": "93800"
    },
    {
@@ -917,7 +917,7 @@
     "name": "4padel-le-five-champigny-sur-marne",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 2855,
+    "n_bookings": 2915,
     "cp": "94500"
    },
    {
@@ -925,7 +925,7 @@
     "name": "4padel-paris-20",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 6030,
+    "n_bookings": 6109,
     "cp": "75020"
    },
    {
@@ -933,7 +933,7 @@
     "name": "4padel-torcy-vaires-sur-marne",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 5743,
+    "n_bookings": 5842,
     "cp": "77360"
    },
    {
@@ -941,7 +941,7 @@
     "name": "ace-padel-evry-courcouronnes",
     "source": "anybuddy",
     "prix_median_90": 66.0,
-    "n_bookings": 1246,
+    "n_bookings": 1279,
     "cp": "91000"
    },
    {
@@ -949,7 +949,7 @@
     "name": "aldea-padel-villabe",
     "source": "anybuddy",
     "prix_median_90": 72.0,
-    "n_bookings": 19889,
+    "n_bookings": 20359,
     "cp": "91100"
    },
    {
@@ -957,7 +957,7 @@
     "name": "aquaboulevard-de-paris",
     "source": "anybuddy",
     "prix_median_90": 81.0,
-    "n_bookings": 7471,
+    "n_bookings": 7632,
     "cp": "75015"
    },
    {
@@ -965,7 +965,7 @@
     "name": "as-mantaise-mantes-la-jolie",
     "source": "anybuddy",
     "prix_median_90": 48.0,
-    "n_bookings": 1341,
+    "n_bookings": 1371,
     "cp": "78200"
    },
    {
@@ -973,7 +973,7 @@
     "name": "carre-padel-moissy-cramayel",
     "source": "anybuddy",
     "prix_median_90": 69.0,
-    "n_bookings": 13486,
+    "n_bookings": 13892,
     "cp": "77550"
    },
    {
@@ -981,7 +981,7 @@
     "name": "coquelicot-padel-boissy-saint-leger",
     "source": "anybuddy",
     "prix_median_90": 44.0,
-    "n_bookings": 6060,
+    "n_bookings": 6191,
     "cp": "94470"
    },
    {
@@ -989,7 +989,7 @@
     "name": "Senart Padel",
     "source": "doinsport_history",
     "prix_median_90": 72.0,
-    "n_bookings": 5090,
+    "n_bookings": 5115,
     "cp": "77380"
    },
    {
@@ -997,7 +997,7 @@
     "name": "Padel Futur Dammarie",
     "source": "doinsport_history",
     "prix_median_90": 34.5,
-    "n_bookings": 271,
+    "n_bookings": 304,
     "cp": "77190"
    },
    {
@@ -1005,7 +1005,7 @@
     "name": "Padel Camp",
     "source": "doinsport_history",
     "prix_median_90": 68.0,
-    "n_bookings": 12613,
+    "n_bookings": 12638,
     "cp": "78260"
    },
    {
@@ -1013,7 +1013,7 @@
     "name": "Play Padel Alfortville",
     "source": "doinsport_history",
     "prix_median_90": 36.0,
-    "n_bookings": 1677,
+    "n_bookings": 1708,
     "cp": "94140"
    },
    {
@@ -1029,7 +1029,7 @@
     "name": "O.S. Sannois",
     "source": "doinsport_history",
     "prix_median_90": 27.0,
-    "n_bookings": 5270,
+    "n_bookings": 5290,
     "cp": "95110"
    },
    {
@@ -1037,15 +1037,15 @@
     "name": "Padel A.C",
     "source": "doinsport_history",
     "prix_median_90": 76.0,
-    "n_bookings": 18742,
+    "n_bookings": 18805,
     "cp": "95700"
    },
    {
     "slug": "doinsport-8413039f-d6c4-4fe5-86d6-dc3c40ed2775",
     "name": "Padel Pulsion",
     "source": "doinsport_history",
-    "prix_median_90": 34.5,
-    "n_bookings": 96,
+    "prix_median_90": 39.0,
+    "n_bookings": 99,
     "cp": "91570"
    },
    {
@@ -1053,7 +1053,7 @@
     "name": "Padel 95",
     "source": "doinsport_history",
     "prix_median_90": 72.0,
-    "n_bookings": 27474,
+    "n_bookings": 27518,
     "cp": "95300"
    },
    {
@@ -1061,7 +1061,7 @@
     "name": "Domaine de Lassy",
     "source": "doinsport_history",
     "prix_median_90": 54.0,
-    "n_bookings": 4823,
+    "n_bookings": 4842,
     "cp": "95270"
    },
    {
@@ -1069,7 +1069,7 @@
     "name": "Royal Padel Club",
     "source": "doinsport_history",
     "prix_median_90": 80.0,
-    "n_bookings": 5279,
+    "n_bookings": 5283,
     "cp": "78000"
    },
    {
@@ -1077,7 +1077,7 @@
     "name": "Le Padel Wellness",
     "source": "doinsport_history",
     "prix_median_90": 60.0,
-    "n_bookings": 20,
+    "n_bookings": 22,
     "cp": "95500"
    },
    {
@@ -1093,7 +1093,7 @@
     "name": "Tennis Club de la Chataigneraie",
     "source": "doinsport_history",
     "prix_median_90": 90.0,
-    "n_bookings": 17542,
+    "n_bookings": 17566,
     "cp": "92500"
    },
    {
@@ -1101,7 +1101,7 @@
     "name": "Padel Horizon - Sucy en Brie",
     "source": "doinsport_history",
     "prix_median_90": 24.0,
-    "n_bookings": 19229,
+    "n_bookings": 19290,
     "cp": "94370"
    },
    {
@@ -1109,7 +1109,7 @@
     "name": "FOOTBALL 5 CLUB",
     "source": "doinsport_history",
     "prix_median_90": 40.0,
-    "n_bookings": 5466,
+    "n_bookings": 5471,
     "cp": "78710"
    },
    {
@@ -1117,7 +1117,7 @@
     "name": "Big Five & Padel",
     "source": "doinsport_history",
     "prix_median_90": 72.0,
-    "n_bookings": 546,
+    "n_bookings": 551,
     "cp": "95350"
    },
    {
@@ -1125,15 +1125,15 @@
     "name": "Aldea Padel",
     "source": "doinsport_history",
     "prix_median_90": 72.0,
-    "n_bookings": 1223,
+    "n_bookings": 1236,
     "cp": "91100"
    },
    {
     "slug": "doinsport-f73b2bef-eedd-4fba-9d72-15595ac723fa",
     "name": "B14",
     "source": "doinsport_history",
-    "prix_median_90": 56.2,
-    "n_bookings": 15334,
+    "prix_median_90": 55.5,
+    "n_bookings": 15386,
     "cp": "91070"
    },
    {
@@ -1141,7 +1141,7 @@
     "name": "Planète Raquettes",
     "source": "doinsport_history",
     "prix_median_90": 60.0,
-    "n_bookings": 8230,
+    "n_bookings": 8241,
     "cp": "77870"
    },
    {
@@ -1149,7 +1149,7 @@
     "name": "FIVE ARENA",
     "source": "doinsport_history",
     "prix_median_90": 64.0,
-    "n_bookings": 1003,
+    "n_bookings": 1004,
     "cp": "77100"
    },
    {
@@ -1157,7 +1157,7 @@
     "name": "five-arena-meaux",
     "source": "anybuddy",
     "prix_median_90": 64.0,
-    "n_bookings": 2842,
+    "n_bookings": 2898,
     "cp": "77100"
    },
    {
@@ -1165,7 +1165,7 @@
     "name": "forest-hill-marnes-la-coquette",
     "source": "anybuddy",
     "prix_median_90": 75.0,
-    "n_bookings": 12403,
+    "n_bookings": 12601,
     "cp": "92430"
    },
    {
@@ -1173,7 +1173,7 @@
     "name": "forest-hill-nanterre-la-defense",
     "source": "anybuddy",
     "prix_median_90": 96.0,
-    "n_bookings": 3600,
+    "n_bookings": 3636,
     "cp": "92000"
    },
    {
@@ -1181,7 +1181,7 @@
     "name": "home-padel-meaux",
     "source": "anybuddy",
     "prix_median_90": 48.0,
-    "n_bookings": 26628,
+    "n_bookings": 27031,
     "cp": "77100"
    },
    {
@@ -1189,7 +1189,7 @@
     "name": "le-five-marville-la-courneuve",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 9617,
+    "n_bookings": 9863,
     "cp": "93120"
    },
    {
@@ -1197,15 +1197,15 @@
     "name": "les-padelistes-bercy-paris",
     "source": "anybuddy",
     "prix_median_90": 72.0,
-    "n_bookings": 913,
+    "n_bookings": 929,
     "cp": "75012"
    },
    {
     "slug": "padel-15-paris",
     "name": "padel-15-paris",
     "source": "anybuddy",
-    "prix_median_90": 70.0,
-    "n_bookings": 3245,
+    "prix_median_90": 75.0,
+    "n_bookings": 3277,
     "cp": "75015"
    },
    {
@@ -1213,7 +1213,7 @@
     "name": "padel-95-pontoise",
     "source": "anybuddy",
     "prix_median_90": 56.0,
-    "n_bookings": 1627,
+    "n_bookings": 1645,
     "cp": "95300"
    },
    {
@@ -1221,7 +1221,7 @@
     "name": "padel-ac-tremblay-en-france",
     "source": "anybuddy",
     "prix_median_90": 76.0,
-    "n_bookings": 4255,
+    "n_bookings": 4355,
     "cp": "95700"
    },
    {
@@ -1229,7 +1229,7 @@
     "name": "padel-camp-acheres",
     "source": "anybuddy",
     "prix_median_90": 68.0,
-    "n_bookings": 829,
+    "n_bookings": 853,
     "cp": "78260"
    },
    {
@@ -1237,7 +1237,7 @@
     "name": "padel-max-95-persan",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 17325,
+    "n_bookings": 17750,
     "cp": "95340"
    },
    {
@@ -1245,7 +1245,7 @@
     "name": "padel-versaille-versailles",
     "source": "anybuddy",
     "prix_median_90": 80.0,
-    "n_bookings": 11249,
+    "n_bookings": 11483,
     "cp": "78000"
    },
    {
@@ -1253,7 +1253,7 @@
     "name": "padel4people-claye-souilly-claye-souilly",
     "source": "anybuddy",
     "prix_median_90": 40.0,
-    "n_bookings": 3118,
+    "n_bookings": 3183,
     "cp": "77410"
    },
    {
@@ -1261,7 +1261,7 @@
     "name": "padelshot-saint-quentin-en-yvelines-trappes",
     "source": "anybuddy",
     "prix_median_90": 72.0,
-    "n_bookings": 27136,
+    "n_bookings": 27697,
     "cp": "78190"
    },
    {
@@ -1269,7 +1269,7 @@
     "name": "paris-padel",
     "source": "anybuddy",
     "prix_median_90": 90.0,
-    "n_bookings": 1936,
+    "n_bookings": 1950,
     "cp": "75020"
    },
    {
@@ -1277,7 +1277,7 @@
     "name": "play-padel-alfortville",
     "source": "anybuddy",
     "prix_median_90": 39.0,
-    "n_bookings": 5346,
+    "n_bookings": 5439,
     "cp": "94140"
    },
    {
@@ -1365,7 +1365,7 @@
     "name": "roissy-en-brie-ast",
     "source": "anybuddy",
     "prix_median_90": 50.0,
-    "n_bookings": 1010,
+    "n_bookings": 1030,
     "cp": "77680"
    },
    {
@@ -1373,7 +1373,7 @@
     "name": "sannois-oss",
     "source": "anybuddy",
     "prix_median_90": 36.0,
-    "n_bookings": 793,
+    "n_bookings": 813,
     "cp": "95110"
    },
    {
@@ -1381,7 +1381,7 @@
     "name": "sartrouville-tc",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 306,
+    "n_bookings": 314,
     "cp": "78500"
    },
    {
@@ -1389,7 +1389,7 @@
     "name": "senart-padel-combs-la-ville",
     "source": "anybuddy",
     "prix_median_90": 72.0,
-    "n_bookings": 17341,
+    "n_bookings": 17628,
     "cp": "77380"
    },
    {
@@ -1397,7 +1397,7 @@
     "name": "sportfield-courbevoie-la-defense",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 2812,
+    "n_bookings": 2861,
     "cp": "92400"
    },
    {
@@ -1405,7 +1405,7 @@
     "name": "sportfield-paris",
     "source": "anybuddy",
     "prix_median_90": 82.5,
-    "n_bookings": 4732,
+    "n_bookings": 4819,
     "cp": "75016"
    },
    {
@@ -1413,7 +1413,7 @@
     "name": "sportoo-goussainville",
     "source": "anybuddy",
     "prix_median_90": 52.0,
-    "n_bookings": 746,
+    "n_bookings": 761,
     "cp": "95190"
    },
    {
@@ -1421,7 +1421,7 @@
     "name": "stadium-thiais-thiais",
     "source": "anybuddy",
     "prix_median_90": 44.0,
-    "n_bookings": 9894,
+    "n_bookings": 10125,
     "cp": "94320"
    },
    {
@@ -1429,7 +1429,7 @@
     "name": "tennis-du-golf-de-la-boulie-versailles",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 792,
+    "n_bookings": 814,
     "cp": "78000"
    },
    {
@@ -1437,7 +1437,7 @@
     "name": "tennis-melun",
     "source": "anybuddy",
     "prix_median_90": 44.0,
-    "n_bookings": 10264,
+    "n_bookings": 10492,
     "cp": "77000"
    },
    {
@@ -1445,7 +1445,7 @@
     "name": "tennis-padel-bois-colombes-bois-colombes",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 644,
+    "n_bookings": 661,
     "cp": "92700"
    },
    {
@@ -1453,7 +1453,7 @@
     "name": "tennis-rambouillet",
     "source": "anybuddy",
     "prix_median_90": 40.0,
-    "n_bookings": 458,
+    "n_bookings": 467,
     "cp": "78120"
    },
    {
@@ -1461,7 +1461,7 @@
     "name": "trinquet-village-paris",
     "source": "anybuddy",
     "prix_median_90": 78.0,
-    "n_bookings": 5109,
+    "n_bookings": 5208,
     "cp": "75016"
    },
    {
@@ -1469,7 +1469,7 @@
     "name": "ucpa-montigny-club-le-village-montigny-le-bretonneux",
     "source": "anybuddy",
     "prix_median_90": 54.0,
-    "n_bookings": 253,
+    "n_bookings": 261,
     "cp": "78180"
    },
    {
@@ -1477,15 +1477,15 @@
     "name": "UrbanPadel Évry-Courcouronnes",
     "source": "urbanpadel",
     "prix_median_90": 54.0,
-    "n_bookings": 5496,
+    "n_bookings": 5613,
     "cp": "91080"
    },
    {
     "slug": "urbanpadel-marne-la-vallee-lognes",
     "name": "UrbanPadel Marne la Vallée (Lognes)",
     "source": "urbanpadel",
-    "prix_median_90": 72,
-    "n_bookings": 7187,
+    "prix_median_90": 72.0,
+    "n_bookings": 7355,
     "cp": "77185"
    },
    {
@@ -1493,15 +1493,15 @@
     "name": "UrbanPadel Porte d'Aubervilliers",
     "source": "urbanpadel",
     "prix_median_90": 78.0,
-    "n_bookings": 5205,
+    "n_bookings": 5305,
     "cp": "93300"
    },
    {
     "slug": "urbanpadel-puteaux-ile",
     "name": "UrbanPadel Puteaux-Île",
     "source": "urbanpadel",
-    "prix_median_90": 78.0,
-    "n_bookings": 11077,
+    "prix_median_90": 78,
+    "n_bookings": 11268,
     "cp": "92800"
    },
    {
@@ -1509,7 +1509,7 @@
     "name": "usy-la-queue-lez-yvelines",
     "source": "anybuddy",
     "prix_median_90": 45.0,
-    "n_bookings": 616,
+    "n_bookings": 630,
     "cp": "78940"
    },
    {
@@ -1517,7 +1517,7 @@
     "name": "wrc-trappes",
     "source": "anybuddy",
     "prix_median_90": 48.0,
-    "n_bookings": 1533,
+    "n_bookings": 1573,
     "cp": "78190"
    },
    {
@@ -1525,7 +1525,7 @@
     "name": "wtc-wissous",
     "source": "anybuddy",
     "prix_median_90": 60.0,
-    "n_bookings": 2208,
+    "n_bookings": 2278,
     "cp": "91320"
    }
   ],
@@ -2425,9 +2425,9 @@
     "name": null,
     "cp": "95240",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1974,
-    "n_recent_6m": 1974,
+    "last_seen": "2026-09-02",
+    "n_total": 2020,
+    "n_recent_6m": 2020,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2437,9 +2437,9 @@
     "name": null,
     "cp": "93100",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 2596,
-    "n_recent_6m": 2596,
+    "last_seen": "2026-09-02",
+    "n_total": 2662,
+    "n_recent_6m": 2662,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2449,9 +2449,9 @@
     "name": null,
     "cp": "93400",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 6267,
-    "n_recent_6m": 6267,
+    "last_seen": "2026-09-02",
+    "n_total": 6366,
+    "n_recent_6m": 6366,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2461,9 +2461,9 @@
     "name": null,
     "cp": "92160",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 8826,
-    "n_recent_6m": 8826,
+    "last_seen": "2026-09-02",
+    "n_total": 8978,
+    "n_recent_6m": 8978,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2473,9 +2473,9 @@
     "name": null,
     "cp": "95100",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 15277,
-    "n_recent_6m": 15277,
+    "last_seen": "2026-09-02",
+    "n_total": 15608,
+    "n_recent_6m": 15608,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2485,9 +2485,9 @@
     "name": null,
     "cp": "93200",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 7618,
-    "n_recent_6m": 7618,
+    "last_seen": "2026-09-02",
+    "n_total": 7773,
+    "n_recent_6m": 7773,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2497,9 +2497,9 @@
     "name": null,
     "cp": "94000",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 4422,
-    "n_recent_6m": 4422,
+    "last_seen": "2026-09-02",
+    "n_total": 4524,
+    "n_recent_6m": 4524,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2509,9 +2509,9 @@
     "name": null,
     "cp": "93800",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 10653,
-    "n_recent_6m": 10653,
+    "last_seen": "2026-09-02",
+    "n_total": 10926,
+    "n_recent_6m": 10926,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2521,9 +2521,9 @@
     "name": null,
     "cp": "94500",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 2855,
-    "n_recent_6m": 2855,
+    "last_seen": "2026-09-02",
+    "n_total": 2915,
+    "n_recent_6m": 2915,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2533,9 +2533,9 @@
     "name": null,
     "cp": "75020",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 6030,
-    "n_recent_6m": 6030,
+    "last_seen": "2026-09-02",
+    "n_total": 6109,
+    "n_recent_6m": 6109,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2545,9 +2545,9 @@
     "name": null,
     "cp": "77360",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 5743,
-    "n_recent_6m": 5743,
+    "last_seen": "2026-09-02",
+    "n_total": 5842,
+    "n_recent_6m": 5842,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2557,9 +2557,9 @@
     "name": null,
     "cp": "91000",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1246,
-    "n_recent_6m": 1246,
+    "last_seen": "2026-09-02",
+    "n_total": 1279,
+    "n_recent_6m": 1279,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2569,9 +2569,9 @@
     "name": null,
     "cp": "91100",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 19889,
-    "n_recent_6m": 19889,
+    "last_seen": "2026-09-02",
+    "n_total": 20359,
+    "n_recent_6m": 20359,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2581,9 +2581,9 @@
     "name": null,
     "cp": "75015",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 7471,
-    "n_recent_6m": 7471,
+    "last_seen": "2026-09-02",
+    "n_total": 7632,
+    "n_recent_6m": 7632,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2593,9 +2593,9 @@
     "name": null,
     "cp": "78200",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 1341,
-    "n_recent_6m": 1341,
+    "last_seen": "2026-09-02",
+    "n_total": 1371,
+    "n_recent_6m": 1371,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2605,9 +2605,9 @@
     "name": null,
     "cp": "77550",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 13486,
-    "n_recent_6m": 13486,
+    "last_seen": "2026-09-02",
+    "n_total": 13892,
+    "n_recent_6m": 13892,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2617,9 +2617,9 @@
     "name": null,
     "cp": "94470",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 6060,
-    "n_recent_6m": 6060,
+    "last_seen": "2026-09-02",
+    "n_total": 6191,
+    "n_recent_6m": 6191,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2629,9 +2629,9 @@
     "name": "ASS TENNIS CLUB SARCELLOIS",
     "cp": "95200",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 205,
-    "n_recent_6m": 205,
+    "last_seen": "2026-09-02",
+    "n_total": 207,
+    "n_recent_6m": 207,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2653,11 +2653,11 @@
     "name": "Senart Padel",
     "cp": "77380",
     "first_seen": "2025-10-03",
-    "last_seen": "2026-09-01",
-    "n_total": 5090,
-    "n_recent_6m": 3243,
+    "last_seen": "2026-09-02",
+    "n_total": 5115,
+    "n_recent_6m": 3268,
     "n_prev_6m": 1847,
-    "growth_pct": 75.6,
+    "growth_pct": 76.9,
     "is_new_club": true
    },
    {
@@ -2665,9 +2665,9 @@
     "name": "Padel Futur Dammarie",
     "cp": "77190",
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-01",
-    "n_total": 271,
-    "n_recent_6m": 271,
+    "last_seen": "2026-09-02",
+    "n_total": 304,
+    "n_recent_6m": 304,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2677,9 +2677,9 @@
     "name": "Play Padel Alfortville",
     "cp": "94140",
     "first_seen": "2026-03-19",
-    "last_seen": "2026-09-01",
-    "n_total": 1677,
-    "n_recent_6m": 1677,
+    "last_seen": "2026-09-02",
+    "n_total": 1708,
+    "n_recent_6m": 1708,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2689,9 +2689,9 @@
     "name": "Padel Pulsion",
     "cp": "91570",
     "first_seen": "2026-04-03",
-    "last_seen": "2026-09-01",
-    "n_total": 96,
-    "n_recent_6m": 96,
+    "last_seen": "2026-09-02",
+    "n_total": 99,
+    "n_recent_6m": 99,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2701,11 +2701,11 @@
     "name": "Domaine de Lassy",
     "cp": "95270",
     "first_seen": "2025-09-04",
-    "last_seen": "2026-09-01",
-    "n_total": 4823,
-    "n_recent_6m": 2020,
+    "last_seen": "2026-09-02",
+    "n_total": 4842,
+    "n_recent_6m": 2039,
     "n_prev_6m": 2803,
-    "growth_pct": -27.9,
+    "growth_pct": -27.3,
     "is_new_club": true
    },
    {
@@ -2713,9 +2713,9 @@
     "name": "Le Padel Wellness",
     "cp": "95500",
     "first_seen": "2026-08-24",
-    "last_seen": "2026-09-01",
-    "n_total": 20,
-    "n_recent_6m": 20,
+    "last_seen": "2026-09-02",
+    "n_total": 22,
+    "n_recent_6m": 22,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2737,11 +2737,11 @@
     "name": "Big Five & Padel",
     "cp": "95350",
     "first_seen": "2025-10-23",
-    "last_seen": "2026-09-01",
-    "n_total": 546,
-    "n_recent_6m": 465,
+    "last_seen": "2026-09-02",
+    "n_total": 551,
+    "n_recent_6m": 470,
     "n_prev_6m": 81,
-    "growth_pct": 474.1,
+    "growth_pct": 480.2,
     "is_new_club": true
    },
    {
@@ -2749,11 +2749,11 @@
     "name": "Aldea Padel",
     "cp": "91100",
     "first_seen": "2025-11-26",
-    "last_seen": "2026-09-01",
-    "n_total": 1223,
-    "n_recent_6m": 1210,
+    "last_seen": "2026-09-02",
+    "n_total": 1236,
+    "n_recent_6m": 1223,
     "n_prev_6m": 13,
-    "growth_pct": 9207.7,
+    "growth_pct": 9307.7,
     "is_new_club": true
    },
    {
@@ -2761,9 +2761,9 @@
     "name": null,
     "cp": "91300",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 661,
-    "n_recent_6m": 661,
+    "last_seen": "2026-09-02",
+    "n_total": 674,
+    "n_recent_6m": 674,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2773,9 +2773,9 @@
     "name": null,
     "cp": "77100",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 2842,
-    "n_recent_6m": 2842,
+    "last_seen": "2026-09-02",
+    "n_total": 2898,
+    "n_recent_6m": 2898,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2785,9 +2785,9 @@
     "name": null,
     "cp": "92430",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 12403,
-    "n_recent_6m": 12403,
+    "last_seen": "2026-09-02",
+    "n_total": 12601,
+    "n_recent_6m": 12601,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2797,9 +2797,9 @@
     "name": null,
     "cp": "92000",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 3600,
-    "n_recent_6m": 3600,
+    "last_seen": "2026-09-02",
+    "n_total": 3636,
+    "n_recent_6m": 3636,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2809,9 +2809,9 @@
     "name": null,
     "cp": "78000",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 2213,
-    "n_recent_6m": 2213,
+    "last_seen": "2026-09-02",
+    "n_total": 2258,
+    "n_recent_6m": 2258,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2821,9 +2821,9 @@
     "name": null,
     "cp": "77100",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 26628,
-    "n_recent_6m": 26628,
+    "last_seen": "2026-09-02",
+    "n_total": 27031,
+    "n_recent_6m": 27031,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2833,9 +2833,9 @@
     "name": null,
     "cp": "93120",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 9617,
-    "n_recent_6m": 9617,
+    "last_seen": "2026-09-02",
+    "n_total": 9863,
+    "n_recent_6m": 9863,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2845,9 +2845,9 @@
     "name": null,
     "cp": "75012",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 913,
-    "n_recent_6m": 913,
+    "last_seen": "2026-09-02",
+    "n_total": 929,
+    "n_recent_6m": 929,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2857,9 +2857,9 @@
     "name": null,
     "cp": "77183",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1382,
-    "n_recent_6m": 1382,
+    "last_seen": "2026-09-02",
+    "n_total": 1410,
+    "n_recent_6m": 1410,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2869,9 +2869,9 @@
     "name": null,
     "cp": "77186",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 573,
-    "n_recent_6m": 573,
+    "last_seen": "2026-09-02",
+    "n_total": 585,
+    "n_recent_6m": 585,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2881,9 +2881,9 @@
     "name": null,
     "cp": "75015",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 3245,
-    "n_recent_6m": 3245,
+    "last_seen": "2026-09-02",
+    "n_total": 3277,
+    "n_recent_6m": 3277,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2893,9 +2893,9 @@
     "name": null,
     "cp": "95300",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1627,
-    "n_recent_6m": 1627,
+    "last_seen": "2026-09-02",
+    "n_total": 1645,
+    "n_recent_6m": 1645,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2905,9 +2905,9 @@
     "name": null,
     "cp": "95700",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 4255,
-    "n_recent_6m": 4255,
+    "last_seen": "2026-09-02",
+    "n_total": 4355,
+    "n_recent_6m": 4355,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2917,9 +2917,9 @@
     "name": null,
     "cp": "78260",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 829,
-    "n_recent_6m": 829,
+    "last_seen": "2026-09-02",
+    "n_total": 853,
+    "n_recent_6m": 853,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2929,9 +2929,9 @@
     "name": null,
     "cp": "94370",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 8056,
-    "n_recent_6m": 8056,
+    "last_seen": "2026-09-02",
+    "n_total": 8262,
+    "n_recent_6m": 8262,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2941,9 +2941,9 @@
     "name": null,
     "cp": "95340",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 17325,
-    "n_recent_6m": 17325,
+    "last_seen": "2026-09-02",
+    "n_total": 17750,
+    "n_recent_6m": 17750,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2953,9 +2953,9 @@
     "name": null,
     "cp": "78000",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 11249,
-    "n_recent_6m": 11249,
+    "last_seen": "2026-09-02",
+    "n_total": 11483,
+    "n_recent_6m": 11483,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2965,9 +2965,9 @@
     "name": null,
     "cp": "77410",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 3118,
-    "n_recent_6m": 3118,
+    "last_seen": "2026-09-02",
+    "n_total": 3183,
+    "n_recent_6m": 3183,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2977,9 +2977,9 @@
     "name": null,
     "cp": "78190",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 27136,
-    "n_recent_6m": 27136,
+    "last_seen": "2026-09-02",
+    "n_total": 27697,
+    "n_recent_6m": 27697,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -2989,9 +2989,9 @@
     "name": null,
     "cp": "75020",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1936,
-    "n_recent_6m": 1936,
+    "last_seen": "2026-09-02",
+    "n_total": 1950,
+    "n_recent_6m": 1950,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3001,9 +3001,9 @@
     "name": null,
     "cp": "94140",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 5346,
-    "n_recent_6m": 5346,
+    "last_seen": "2026-09-02",
+    "n_total": 5439,
+    "n_recent_6m": 5439,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3133,9 +3133,9 @@
     "name": null,
     "cp": "77680",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1010,
-    "n_recent_6m": 1010,
+    "last_seen": "2026-09-02",
+    "n_total": 1030,
+    "n_recent_6m": 1030,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3145,9 +3145,9 @@
     "name": null,
     "cp": "95110",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 793,
-    "n_recent_6m": 793,
+    "last_seen": "2026-09-02",
+    "n_total": 813,
+    "n_recent_6m": 813,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3157,9 +3157,9 @@
     "name": null,
     "cp": "78500",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 306,
-    "n_recent_6m": 306,
+    "last_seen": "2026-09-02",
+    "n_total": 314,
+    "n_recent_6m": 314,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3169,9 +3169,9 @@
     "name": null,
     "cp": "77380",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 17341,
-    "n_recent_6m": 17341,
+    "last_seen": "2026-09-02",
+    "n_total": 17628,
+    "n_recent_6m": 17628,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3181,9 +3181,9 @@
     "name": null,
     "cp": "75012",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 2387,
-    "n_recent_6m": 2387,
+    "last_seen": "2026-09-02",
+    "n_total": 2421,
+    "n_recent_6m": 2421,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3193,9 +3193,9 @@
     "name": null,
     "cp": "92400",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 2812,
-    "n_recent_6m": 2812,
+    "last_seen": "2026-09-02",
+    "n_total": 2861,
+    "n_recent_6m": 2861,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3205,9 +3205,9 @@
     "name": null,
     "cp": "75016",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 4732,
-    "n_recent_6m": 4732,
+    "last_seen": "2026-09-02",
+    "n_total": 4819,
+    "n_recent_6m": 4819,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3217,9 +3217,9 @@
     "name": null,
     "cp": "95190",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 746,
-    "n_recent_6m": 746,
+    "last_seen": "2026-09-02",
+    "n_total": 761,
+    "n_recent_6m": 761,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3229,9 +3229,9 @@
     "name": null,
     "cp": "94320",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 9894,
-    "n_recent_6m": 9894,
+    "last_seen": "2026-09-02",
+    "n_total": 10125,
+    "n_recent_6m": 10125,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3241,9 +3241,9 @@
     "name": null,
     "cp": "78170",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 623,
-    "n_recent_6m": 623,
+    "last_seen": "2026-09-02",
+    "n_total": 636,
+    "n_recent_6m": 636,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3253,9 +3253,9 @@
     "name": null,
     "cp": "78590",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 873,
-    "n_recent_6m": 873,
+    "last_seen": "2026-09-02",
+    "n_total": 901,
+    "n_recent_6m": 901,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3265,9 +3265,9 @@
     "name": null,
     "cp": "78000",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 792,
-    "n_recent_6m": 792,
+    "last_seen": "2026-09-02",
+    "n_total": 814,
+    "n_recent_6m": 814,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3277,9 +3277,9 @@
     "name": null,
     "cp": "95420",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 394,
-    "n_recent_6m": 394,
+    "last_seen": "2026-09-02",
+    "n_total": 402,
+    "n_recent_6m": 402,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3289,9 +3289,9 @@
     "name": null,
     "cp": "77000",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 10264,
-    "n_recent_6m": 10264,
+    "last_seen": "2026-09-02",
+    "n_total": 10492,
+    "n_recent_6m": 10492,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3301,9 +3301,9 @@
     "name": null,
     "cp": "92700",
     "first_seen": "2026-07-06",
-    "last_seen": "2026-09-01",
-    "n_total": 644,
-    "n_recent_6m": 644,
+    "last_seen": "2026-09-02",
+    "n_total": 661,
+    "n_recent_6m": 661,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3325,9 +3325,9 @@
     "name": null,
     "cp": "78120",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 458,
-    "n_recent_6m": 458,
+    "last_seen": "2026-09-02",
+    "n_total": 467,
+    "n_recent_6m": 467,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3337,9 +3337,9 @@
     "name": null,
     "cp": "75016",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 5109,
-    "n_recent_6m": 5109,
+    "last_seen": "2026-09-02",
+    "n_total": 5208,
+    "n_recent_6m": 5208,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3349,9 +3349,9 @@
     "name": null,
     "cp": "78180",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 253,
-    "n_recent_6m": 253,
+    "last_seen": "2026-09-02",
+    "n_total": 261,
+    "n_recent_6m": 261,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3361,9 +3361,9 @@
     "name": null,
     "cp": "75019",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 820,
-    "n_recent_6m": 820,
+    "last_seen": "2026-09-02",
+    "n_total": 837,
+    "n_recent_6m": 837,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3373,9 +3373,9 @@
     "name": null,
     "cp": "92360",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 845,
-    "n_recent_6m": 845,
+    "last_seen": "2026-09-02",
+    "n_total": 868,
+    "n_recent_6m": 868,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3385,9 +3385,9 @@
     "name": "UrbanPadel Évry-Courcouronnes",
     "cp": "91080",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 5496,
-    "n_recent_6m": 5496,
+    "last_seen": "2026-09-02",
+    "n_total": 5613,
+    "n_recent_6m": 5613,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3397,9 +3397,9 @@
     "name": "UrbanPadel Marne la Vallée (Lognes)",
     "cp": "77185",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 7187,
-    "n_recent_6m": 7187,
+    "last_seen": "2026-09-02",
+    "n_total": 7355,
+    "n_recent_6m": 7355,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3409,9 +3409,9 @@
     "name": "UrbanPadel Porte d'Aubervilliers",
     "cp": "93300",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 5205,
-    "n_recent_6m": 5205,
+    "last_seen": "2026-09-02",
+    "n_total": 5305,
+    "n_recent_6m": 5305,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3421,9 +3421,9 @@
     "name": "UrbanPadel Puteaux-Île",
     "cp": "92800",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 11077,
-    "n_recent_6m": 11077,
+    "last_seen": "2026-09-02",
+    "n_total": 11268,
+    "n_recent_6m": 11268,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3433,9 +3433,9 @@
     "name": null,
     "cp": "78940",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 616,
-    "n_recent_6m": 616,
+    "last_seen": "2026-09-02",
+    "n_total": 630,
+    "n_recent_6m": 630,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3445,9 +3445,9 @@
     "name": null,
     "cp": "78190",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-01",
-    "n_total": 1533,
-    "n_recent_6m": 1533,
+    "last_seen": "2026-09-02",
+    "n_total": 1573,
+    "n_recent_6m": 1573,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3457,9 +3457,9 @@
     "name": null,
     "cp": "91320",
     "first_seen": "2026-07-10",
-    "last_seen": "2026-09-01",
-    "n_total": 2208,
-    "n_recent_6m": 2208,
+    "last_seen": "2026-09-02",
+    "n_total": 2278,
+    "n_recent_6m": 2278,
     "n_prev_6m": 0,
     "growth_pct": null,
     "is_new_club": true
@@ -3471,11 +3471,11 @@
     "name": "Aldea Padel",
     "cp": "91100",
     "first_seen": "2025-11-26",
-    "last_seen": "2026-09-01",
-    "n_total": 1223,
-    "n_recent_6m": 1210,
+    "last_seen": "2026-09-02",
+    "n_total": 1236,
+    "n_recent_6m": 1223,
     "n_prev_6m": 13,
-    "growth_pct": 9207.7,
+    "growth_pct": 9307.7,
     "is_new_club": true
    },
    {
@@ -3483,11 +3483,11 @@
     "name": "Big Five & Padel",
     "cp": "95350",
     "first_seen": "2025-10-23",
-    "last_seen": "2026-09-01",
-    "n_total": 546,
-    "n_recent_6m": 465,
+    "last_seen": "2026-09-02",
+    "n_total": 551,
+    "n_recent_6m": 470,
     "n_prev_6m": 81,
-    "growth_pct": 474.1,
+    "growth_pct": 480.2,
     "is_new_club": true
    },
    {
@@ -3495,11 +3495,11 @@
     "name": "Senart Padel",
     "cp": "77380",
     "first_seen": "2025-10-03",
-    "last_seen": "2026-09-01",
-    "n_total": 5090,
-    "n_recent_6m": 3243,
+    "last_seen": "2026-09-02",
+    "n_total": 5115,
+    "n_recent_6m": 3268,
     "n_prev_6m": 1847,
-    "growth_pct": 75.6,
+    "growth_pct": 76.9,
     "is_new_club": true
    },
    {
@@ -3507,11 +3507,11 @@
     "name": "FIVE ARENA",
     "cp": "77100",
     "first_seen": "2024-09-22",
-    "last_seen": "2026-09-01",
-    "n_total": 1003,
-    "n_recent_6m": 209,
+    "last_seen": "2026-09-02",
+    "n_total": 1004,
+    "n_recent_6m": 210,
     "n_prev_6m": 166,
-    "growth_pct": 25.9,
+    "growth_pct": 26.5,
     "is_new_club": false
    },
    {
@@ -3519,11 +3519,11 @@
     "name": "Tennis Club de Paris",
     "cp": "75016",
     "first_seen": "2025-05-05",
-    "last_seen": "2026-09-01",
-    "n_total": 998,
-    "n_recent_6m": 433,
+    "last_seen": "2026-09-02",
+    "n_total": 1000,
+    "n_recent_6m": 435,
     "n_prev_6m": 372,
-    "growth_pct": 16.4,
+    "growth_pct": 16.9,
     "is_new_club": false
    },
    {
@@ -3531,11 +3531,11 @@
     "name": "B14",
     "cp": "91070",
     "first_seen": "2025-08-30",
-    "last_seen": "2026-09-01",
-    "n_total": 15334,
-    "n_recent_6m": 7364,
+    "last_seen": "2026-09-02",
+    "n_total": 15386,
+    "n_recent_6m": 7416,
     "n_prev_6m": 7966,
-    "growth_pct": -7.6,
+    "growth_pct": -6.9,
     "is_new_club": false
    },
    {
@@ -3543,11 +3543,23 @@
     "name": "Padel A.C",
     "cp": "95700",
     "first_seen": "2024-12-05",
-    "last_seen": "2026-09-01",
-    "n_total": 18742,
-    "n_recent_6m": 8298,
+    "last_seen": "2026-09-02",
+    "n_total": 18805,
+    "n_recent_6m": 8361,
     "n_prev_6m": 10050,
-    "growth_pct": -17.4,
+    "growth_pct": -16.8,
+    "is_new_club": false
+   },
+   {
+    "slug": "doinsport-46006260-0a24-4f36-b27b-a489ed46a9c3",
+    "name": "Padel Camp",
+    "cp": "78260",
+    "first_seen": "2024-04-01",
+    "last_seen": "2026-09-02",
+    "n_total": 12638,
+    "n_recent_6m": 2325,
+    "n_prev_6m": 3196,
+    "growth_pct": -27.3,
     "is_new_club": false
    },
    {
@@ -3555,35 +3567,23 @@
     "name": "Domaine de Lassy",
     "cp": "95270",
     "first_seen": "2025-09-04",
-    "last_seen": "2026-09-01",
-    "n_total": 4823,
-    "n_recent_6m": 2020,
+    "last_seen": "2026-09-02",
+    "n_total": 4842,
+    "n_recent_6m": 2039,
     "n_prev_6m": 2803,
-    "growth_pct": -27.9,
+    "growth_pct": -27.3,
     "is_new_club": true
-   },
-   {
-    "slug": "doinsport-46006260-0a24-4f36-b27b-a489ed46a9c3",
-    "name": "Padel Camp",
-    "cp": "78260",
-    "first_seen": "2024-04-01",
-    "last_seen": "2026-09-01",
-    "n_total": 12613,
-    "n_recent_6m": 2300,
-    "n_prev_6m": 3196,
-    "growth_pct": -28.0,
-    "is_new_club": false
    },
    {
     "slug": "doinsport-ad752496-c285-4ff2-9914-f7b9a2382ded",
     "name": "Royal Padel Club",
     "cp": "78000",
     "first_seen": "2024-06-28",
-    "last_seen": "2026-09-01",
-    "n_total": 5279,
-    "n_recent_6m": 927,
+    "last_seen": "2026-09-02",
+    "n_total": 5283,
+    "n_recent_6m": 931,
     "n_prev_6m": 1425,
-    "growth_pct": -34.9,
+    "growth_pct": -34.7,
     "is_new_club": false
    },
    {
@@ -3591,11 +3591,11 @@
     "name": "Planète Raquettes",
     "cp": "77870",
     "first_seen": "2024-03-17",
-    "last_seen": "2026-09-01",
-    "n_total": 8230,
-    "n_recent_6m": 1384,
+    "last_seen": "2026-09-02",
+    "n_total": 8241,
+    "n_recent_6m": 1395,
     "n_prev_6m": 2147,
-    "growth_pct": -35.5,
+    "growth_pct": -35.0,
     "is_new_club": false
    },
    {
@@ -3603,11 +3603,11 @@
     "name": "Bad Pad",
     "cp": "91420",
     "first_seen": "2025-03-27",
-    "last_seen": "2026-09-01",
-    "n_total": 7337,
-    "n_recent_6m": 2492,
+    "last_seen": "2026-09-02",
+    "n_total": 7365,
+    "n_recent_6m": 2520,
     "n_prev_6m": 4101,
-    "growth_pct": -39.2,
+    "growth_pct": -38.6,
     "is_new_club": false
    },
    {
@@ -3615,11 +3615,11 @@
     "name": "FOOTBALL 5 CLUB",
     "cp": "78710",
     "first_seen": "2024-04-01",
-    "last_seen": "2026-09-01",
-    "n_total": 5466,
-    "n_recent_6m": 886,
+    "last_seen": "2026-09-02",
+    "n_total": 5471,
+    "n_recent_6m": 891,
     "n_prev_6m": 1463,
-    "growth_pct": -39.4,
+    "growth_pct": -39.1,
     "is_new_club": false
    },
    {
@@ -3627,11 +3627,11 @@
     "name": "Tennis Club de la Chataigneraie",
     "cp": "92500",
     "first_seen": "2023-09-02",
-    "last_seen": "2026-09-01",
-    "n_total": 17542,
-    "n_recent_6m": 2258,
+    "last_seen": "2026-09-02",
+    "n_total": 17566,
+    "n_recent_6m": 2282,
     "n_prev_6m": 4426,
-    "growth_pct": -49.0,
+    "growth_pct": -48.4,
     "is_new_club": false
    },
    {
@@ -3639,11 +3639,11 @@
     "name": "Padel 95",
     "cp": "95300",
     "first_seen": "2024-03-30",
-    "last_seen": "2026-09-01",
-    "n_total": 27474,
-    "n_recent_6m": 1596,
+    "last_seen": "2026-09-02",
+    "n_total": 27518,
+    "n_recent_6m": 1640,
     "n_prev_6m": 4623,
-    "growth_pct": -65.5,
+    "growth_pct": -64.5,
     "is_new_club": false
    }
   ],
@@ -3665,11 +3665,11 @@
     "name": "Padel 95",
     "cp": "95300",
     "first_seen": "2024-03-30",
-    "last_seen": "2026-09-01",
-    "n_total": 27474,
-    "n_recent_6m": 1596,
+    "last_seen": "2026-09-02",
+    "n_total": 27518,
+    "n_recent_6m": 1640,
     "n_prev_6m": 4623,
-    "growth_pct": -65.5,
+    "growth_pct": -64.5,
     "is_new_club": false
    },
    {
@@ -3677,11 +3677,11 @@
     "name": "Tennis Club de la Chataigneraie",
     "cp": "92500",
     "first_seen": "2023-09-02",
-    "last_seen": "2026-09-01",
-    "n_total": 17542,
-    "n_recent_6m": 2258,
+    "last_seen": "2026-09-02",
+    "n_total": 17566,
+    "n_recent_6m": 2282,
     "n_prev_6m": 4426,
-    "growth_pct": -49.0,
+    "growth_pct": -48.4,
     "is_new_club": false
    },
    {
@@ -3689,11 +3689,11 @@
     "name": "FOOTBALL 5 CLUB",
     "cp": "78710",
     "first_seen": "2024-04-01",
-    "last_seen": "2026-09-01",
-    "n_total": 5466,
-    "n_recent_6m": 886,
+    "last_seen": "2026-09-02",
+    "n_total": 5471,
+    "n_recent_6m": 891,
     "n_prev_6m": 1463,
-    "growth_pct": -39.4,
+    "growth_pct": -39.1,
     "is_new_club": false
    },
    {
@@ -3701,11 +3701,11 @@
     "name": "Bad Pad",
     "cp": "91420",
     "first_seen": "2025-03-27",
-    "last_seen": "2026-09-01",
-    "n_total": 7337,
-    "n_recent_6m": 2492,
+    "last_seen": "2026-09-02",
+    "n_total": 7365,
+    "n_recent_6m": 2520,
     "n_prev_6m": 4101,
-    "growth_pct": -39.2,
+    "growth_pct": -38.6,
     "is_new_club": false
    },
    {
@@ -3713,11 +3713,11 @@
     "name": "Planète Raquettes",
     "cp": "77870",
     "first_seen": "2024-03-17",
-    "last_seen": "2026-09-01",
-    "n_total": 8230,
-    "n_recent_6m": 1384,
+    "last_seen": "2026-09-02",
+    "n_total": 8241,
+    "n_recent_6m": 1395,
     "n_prev_6m": 2147,
-    "growth_pct": -35.5,
+    "growth_pct": -35.0,
     "is_new_club": false
    },
    {
@@ -3725,11 +3725,11 @@
     "name": "Royal Padel Club",
     "cp": "78000",
     "first_seen": "2024-06-28",
-    "last_seen": "2026-09-01",
-    "n_total": 5279,
-    "n_recent_6m": 927,
+    "last_seen": "2026-09-02",
+    "n_total": 5283,
+    "n_recent_6m": 931,
     "n_prev_6m": 1425,
-    "growth_pct": -34.9,
+    "growth_pct": -34.7,
     "is_new_club": false
    },
    {
@@ -3737,11 +3737,11 @@
     "name": "Padel Camp",
     "cp": "78260",
     "first_seen": "2024-04-01",
-    "last_seen": "2026-09-01",
-    "n_total": 12613,
-    "n_recent_6m": 2300,
+    "last_seen": "2026-09-02",
+    "n_total": 12638,
+    "n_recent_6m": 2325,
     "n_prev_6m": 3196,
-    "growth_pct": -28.0,
+    "growth_pct": -27.3,
     "is_new_club": false
    },
    {
@@ -3749,11 +3749,11 @@
     "name": "Domaine de Lassy",
     "cp": "95270",
     "first_seen": "2025-09-04",
-    "last_seen": "2026-09-01",
-    "n_total": 4823,
-    "n_recent_6m": 2020,
+    "last_seen": "2026-09-02",
+    "n_total": 4842,
+    "n_recent_6m": 2039,
     "n_prev_6m": 2803,
-    "growth_pct": -27.9,
+    "growth_pct": -27.3,
     "is_new_club": true
    },
    {
@@ -3761,11 +3761,11 @@
     "name": "Padel A.C",
     "cp": "95700",
     "first_seen": "2024-12-05",
-    "last_seen": "2026-09-01",
-    "n_total": 18742,
-    "n_recent_6m": 8298,
+    "last_seen": "2026-09-02",
+    "n_total": 18805,
+    "n_recent_6m": 8361,
     "n_prev_6m": 10050,
-    "growth_pct": -17.4,
+    "growth_pct": -16.8,
     "is_new_club": false
    }
   ]
@@ -3775,31 +3775,31 @@
    {
     "chain": "4PADEL",
     "n_clubs": 10,
-    "median_sessions_per_club": 886.0,
+    "median_sessions_per_club": 788.0,
     "median_price_90": 66.0
    },
    {
     "chain": "Sportfield",
     "n_clubs": 4,
-    "median_sessions_per_club": 666.0,
+    "median_sessions_per_club": 625.0,
     "median_price_90": 82.5
    },
    {
     "chain": "UrbanPadel",
     "n_clubs": 4,
-    "median_sessions_per_club": 2012.5,
-    "median_price_90": 73.5
+    "median_sessions_per_club": 1873.0,
+    "median_price_90": 75.0
    },
    {
     "chain": "Le Five",
     "n_clubs": 3,
-    "median_sessions_per_club": 840,
+    "median_sessions_per_club": 784,
     "median_price_90": 64.0
    },
    {
     "chain": "Forest Hill",
     "n_clubs": 3,
-    "median_sessions_per_club": 921,
+    "median_sessions_per_club": 905,
     "median_price_90": 85.5
    },
    {
@@ -3811,43 +3811,43 @@
    {
     "chain": "UCPA",
     "n_clubs": 3,
-    "median_sessions_per_club": 204,
+    "median_sessions_per_club": 190,
     "median_price_90": 54.0
    },
    {
     "chain": "Aldea",
     "n_clubs": 2,
-    "median_sessions_per_club": 2914.5,
+    "median_sessions_per_club": 2673.0,
     "median_price_90": 72.0
    },
    {
     "chain": "Padel Camp",
     "n_clubs": 2,
-    "median_sessions_per_club": 226.0,
+    "median_sessions_per_club": 204.0,
     "median_price_90": 68.0
    },
    {
     "chain": "Play Padel",
     "n_clubs": 2,
-    "median_sessions_per_club": 830.5,
+    "median_sessions_per_club": 768.5,
     "median_price_90": 72.0
    },
    {
     "chain": "Big Five",
     "n_clubs": 2,
-    "median_sessions_per_club": 23.5,
+    "median_sessions_per_club": 21.0,
     "median_price_90": 72.0
    },
    {
     "chain": "PadelShot",
     "n_clubs": 2,
-    "median_sessions_per_club": 3541.5,
+    "median_sessions_per_club": 3261.0,
     "median_price_90": 72.0
    },
    {
     "chain": "Carre Padel",
     "n_clubs": 1,
-    "median_sessions_per_club": 6009,
+    "median_sessions_per_club": 5603,
     "median_price_90": 54.0
    },
    {
@@ -3859,14 +3859,14 @@
    {
     "chain": "Trinquet",
     "n_clubs": 1,
-    "median_sessions_per_club": 1297,
+    "median_sessions_per_club": 1198,
     "median_price_90": 71.0
    }
   ],
   "indep": {
    "label": "Indépendants",
    "n_clubs": 100,
-   "median_sessions_per_club": 29.5,
+   "median_sessions_per_club": 28.5,
    "median_price_90": 60.0
   }
  },
@@ -3875,192 +3875,192 @@
    "dept": "75",
    "nom": "Paris",
    "vac_bookings_per_day": 13.4,
-   "non_vac_bookings_per_day": 94.1,
-   "delta_pct": -85.8
+   "non_vac_bookings_per_day": 95.2,
+   "delta_pct": -85.9
   },
   {
    "dept": "77",
    "nom": "Seine-et-Marne",
    "vac_bookings_per_day": 18.8,
-   "non_vac_bookings_per_day": 167.3,
-   "delta_pct": -88.8
+   "non_vac_bookings_per_day": 169.9,
+   "delta_pct": -88.9
   },
   {
    "dept": "78",
    "nom": "Yvelines",
    "vac_bookings_per_day": 32.5,
-   "non_vac_bookings_per_day": 114.7,
-   "delta_pct": -71.7
+   "non_vac_bookings_per_day": 116.2,
+   "delta_pct": -72.0
   },
   {
    "dept": "91",
    "nom": "Essonne",
    "vac_bookings_per_day": 43.5,
-   "non_vac_bookings_per_day": 162.2,
-   "delta_pct": -73.2
+   "non_vac_bookings_per_day": 164.3,
+   "delta_pct": -73.5
   },
   {
    "dept": "92",
    "nom": "Hauts-de-Seine",
    "vac_bookings_per_day": 21.3,
-   "non_vac_bookings_per_day": 81.8,
-   "delta_pct": -73.9
+   "non_vac_bookings_per_day": 82.7,
+   "delta_pct": -74.2
   },
   {
    "dept": "93",
    "nom": "Seine-Saint-Denis",
    "vac_bookings_per_day": 0,
-   "non_vac_bookings_per_day": 880.9,
+   "non_vac_bookings_per_day": 881.9,
    "delta_pct": -100.0
   },
   {
    "dept": "94",
    "nom": "Val-de-Marne",
    "vac_bookings_per_day": 74.2,
-   "non_vac_bookings_per_day": 145.9,
-   "delta_pct": -49.2
+   "non_vac_bookings_per_day": 148.0,
+   "delta_pct": -49.8
   },
   {
    "dept": "95",
    "nom": "Val-d'Oise",
    "vac_bookings_per_day": 65.5,
-   "non_vac_bookings_per_day": 128.8,
-   "delta_pct": -49.1
+   "non_vac_bookings_per_day": 130.3,
+   "delta_pct": -49.7
   }
  ],
  "multi_vs_mono": {
   "n_multi_platforms": 19,
   "n_mono": 102,
-  "median_sessions_multi": 1026,
-  "median_sessions_mono": 86,
-  "avg_sessions_multi": 2162,
-  "avg_sessions_mono": 554,
+  "median_sessions_multi": 939,
+  "median_sessions_mono": 82,
+  "avg_sessions_multi": 2002,
+  "avg_sessions_mono": 510,
   "clusters": [
    {
     "unified_id": "unif_015",
     "canonical_name": "padelshot-saint-quentin-en-yvelines-trappes",
     "cp": "78190",
     "n_platforms": 2,
-    "total_sessions": 7615
+    "total_sessions": 7014
    },
    {
     "unified_id": "unif_005",
     "canonical_name": "Home Padel - Meaux",
     "cp": "77100",
     "n_platforms": 2,
-    "total_sessions": 6095
+    "total_sessions": 5636
    },
    {
     "unified_id": "unif_001",
     "canonical_name": "aldea-padel-villabe",
     "cp": "91100",
     "n_platforms": 2,
-    "total_sessions": 5829
+    "total_sessions": 5346
    },
    {
     "unified_id": "unif_004",
     "canonical_name": "senart-padel-combs-la-ville",
     "cp": "77380",
     "n_platforms": 2,
-    "total_sessions": 5212
+    "total_sessions": 4902
    },
    {
     "unified_id": "unif_018",
     "canonical_name": "tennis-melun",
     "cp": "77000",
     "n_platforms": 2,
-    "total_sessions": 3718
+    "total_sessions": 3490
    },
    {
     "unified_id": "unif_013",
     "canonical_name": "Padel Horizon - Sucy en Brie",
     "cp": "94370",
     "n_platforms": 2,
-    "total_sessions": 3091
+    "total_sessions": 2828
    },
    {
     "unified_id": "unif_002",
     "canonical_name": "aquaboulevard-de-paris",
     "cp": "75015",
     "n_platforms": 2,
-    "total_sessions": 2026
+    "total_sessions": 1903
    },
    {
     "unified_id": "unif_008",
     "canonical_name": "Play Padel Alfortville",
     "cp": "94140",
     "n_platforms": 2,
-    "total_sessions": 1661
+    "total_sessions": 1537
    },
    {
     "unified_id": "unif_000",
     "canonical_name": "4padel-cao-saint-denis",
     "cp": "93200",
     "n_platforms": 2,
-    "total_sessions": 1499
+    "total_sessions": 1344
    },
    {
     "unified_id": "unif_017",
     "canonical_name": "Sportfield Paris 16 ",
     "cp": "75016",
     "n_platforms": 2,
-    "total_sessions": 1026
+    "total_sessions": 939
    },
    {
     "unified_id": "unif_011",
     "canonical_name": "padel-95-pontoise",
     "cp": "95300",
     "n_platforms": 2,
-    "total_sessions": 955
-   },
-   {
-    "unified_id": "unif_010",
-    "canonical_name": "O.S. Sannois",
-    "cp": "95110",
-    "n_platforms": 2,
-    "total_sessions": 461
+    "total_sessions": 898
    },
    {
     "unified_id": "unif_009",
     "canonical_name": "padel-15-paris",
     "cp": "75015",
     "n_platforms": 3,
-    "total_sessions": 458
+    "total_sessions": 440
+   },
+   {
+    "unified_id": "unif_010",
+    "canonical_name": "O.S. Sannois",
+    "cp": "95110",
+    "n_platforms": 2,
+    "total_sessions": 429
    },
    {
     "unified_id": "unif_007",
     "canonical_name": "padel-camp-acheres",
     "cp": "78260",
     "n_platforms": 2,
-    "total_sessions": 452
+    "total_sessions": 408
    },
    {
     "unified_id": "unif_014",
     "canonical_name": "mairie-croissy-beaubourg-croissy-beaubourg",
     "cp": "77183",
     "n_platforms": 2,
-    "total_sessions": 414
+    "total_sessions": 386
    },
    {
     "unified_id": "unif_006",
     "canonical_name": "tennis-du-golf-de-la-boulie-versailles",
     "cp": "78000",
     "n_platforms": 2,
-    "total_sessions": 264
+    "total_sessions": 242
    },
    {
     "unified_id": "unif_016",
     "canonical_name": "paris-padel",
     "cp": "75020",
     "n_platforms": 2,
-    "total_sessions": 222
+    "total_sessions": 208
    },
    {
     "unified_id": "unif_012",
     "canonical_name": "Royal Padel Club - Versailles",
     "cp": "78000",
     "n_platforms": 2,
-    "total_sessions": 95
+    "total_sessions": 93
    },
    {
     "unified_id": "unif_003",
