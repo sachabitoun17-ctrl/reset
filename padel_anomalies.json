@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T08:50:19.539653",
+ "generated_at": "2026-09-10T13:27:34.112878",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -53,6 +53,16 @@
    "direction": "hausse"
   },
   {
+   "slug": "4padel-torcy-vaires-sur-marne",
+   "source": "anybuddy",
+   "name": "4padel-torcy-vaires-sur-marne",
+   "cp": "77360",
+   "prix_30j": 48.0,
+   "prix_recent": 72.0,
+   "delta_pct": 50.0,
+   "direction": "hausse"
+  },
+  {
    "slug": "4-padel-saint-ouen-saint-ouen-sur-seine",
    "source": "anybuddy",
    "name": "4-padel-saint-ouen-saint-ouen-sur-seine",
@@ -87,16 +97,6 @@
    "source": "anybuddy",
    "name": "4padel-le-five-champigny-sur-marne",
    "cp": "94500",
-   "prix_30j": 48.0,
-   "prix_recent": 66.0,
-   "delta_pct": 37.5,
-   "direction": "hausse"
-  },
-  {
-   "slug": "4padel-torcy-vaires-sur-marne",
-   "source": "anybuddy",
-   "name": "4padel-torcy-vaires-sur-marne",
-   "cp": "77360",
    "prix_30j": 48.0,
    "prix_recent": 66.0,
    "delta_pct": 37.5,
