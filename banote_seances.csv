@@ -15877,28 +15877,28 @@ id,date,jour,heure,fin,lieu,cours,coach,capacite,presents,finie,statut,releve
 62547700,2026-09-10,Jeudi,18:30,19:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-07 00:52
 64632400,2026-09-10,Jeudi,18:30,19:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-06 10:37
 7589080,2026-09-10,Jeudi,18:30,19:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-10 15:31
-11544740,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-09 15:40
-12299920,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Rachel,12,0,False,disponible,2026-09-04 15:27
-149692180,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-08 15:32
-21412460,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-06 17:43
-24008560,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-05 23:40
-2464880,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Rachel,12,0,False,disponible,2026-09-04 19:03
-306280,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-08 22:13
-38182200,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-06 10:37
-39000800,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-05 17:07
-4356460,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-05 19:17
-48839820,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-08 19:27
-7378340,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,False,disponible,2026-09-05 14:01
-743060,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Rachel,12,0,False,disponible,2026-09-04 10:48
-12604760,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-05 19:17
-146427640,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-08 15:32
-2584220,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-04 15:27
-3964540,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-04 19:03
-51955860,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-08 22:13
-5968240,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,12,False,complet,2026-09-10 10:54
-62547740,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-07 00:52
-64632440,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,False,disponible,2026-09-06 10:37
-7589120,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,12,False,complet,2026-09-10 15:31
+11544740,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-09 15:40
+12299920,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Rachel,12,0,True,disponible,2026-09-04 15:27
+149692180,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-08 15:32
+21412460,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-06 17:43
+24008560,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-05 23:40
+2464880,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Rachel,12,0,True,disponible,2026-09-04 19:03
+306280,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-08 22:13
+38182200,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-06 10:37
+39000800,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-05 17:07
+4356460,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-05 19:17
+48839820,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-08 19:27
+7378340,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Marine (Suppléant),12,0,True,disponible,2026-09-05 14:01
+743060,2026-09-10,Jeudi,19:30,20:30,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Rachel,12,0,True,disponible,2026-09-04 10:48
+12604760,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-05 19:17
+146427640,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-08 15:32
+2584220,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-04 15:27
+3964540,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-04 19:03
+51955860,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-08 22:13
+5968240,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,12,True,complet,2026-09-10 10:54
+62547740,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-07 00:52
+64632440,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,0,True,disponible,2026-09-06 10:37
+7589120,2026-09-10,Jeudi,19:30,20:30,Banote Club Paris 16e,LAGREE FULL BODY — WOMEN ONLY,Lola,12,12,True,complet,2026-09-10 15:31
 11544780,2026-09-11,Vendredi,09:00,10:00,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Tally,12,0,False,disponible,2026-09-09 15:40
 149692220,2026-09-11,Vendredi,09:00,10:00,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Tally,12,0,False,disponible,2026-09-08 15:32
 21412500,2026-09-11,Vendredi,09:00,10:00,Banote Club Charenton,LAGREE FULL BODY — WOMEN ONLY,Tally,12,0,False,disponible,2026-09-06 17:43
