@@ -1287,6 +1287,17 @@
   "website": "https://glazpadel.fr/"
  },
  {
+  "id": "fe94e286-24ba-4fdd-aa35-bc97190dbc50",
+  "name": "Goat Padel",
+  "cp": "07140",
+  "city": "Chambonas",
+  "dept": "07",
+  "metro": "lyon",
+  "lat": -21.0477534,
+  "lng": 55.2218964,
+  "website": null
+ },
+ {
   "id": "97b9d28a-6c9f-4f37-a466-058ab489e0db",
   "name": "Golden Point Padel Academy",
   "cp": "24005",
@@ -2153,7 +2164,7 @@
   "metro": "toulouse",
   "lat": 43.5221852,
   "lng": 1.4076378,
-  "website": null
+  "website": "https://meet-padel.fr"
  },
  {
   "id": "80ad4f9e-944c-4f33-8ba5-71ef4c522db6",

@@ -2574,6 +2574,28 @@
   }
  },
  {
+  "slug": "doinsport-fe94e286-24ba-4fdd-aa35-bc97190dbc50",
+  "source": "doinsport",
+  "name": "Goat Padel",
+  "cp": "07140",
+  "city": "Chambonas",
+  "dept": "07",
+  "metro": "lyon",
+  "lat": -21.0477534,
+  "lng": 55.2218964,
+  "raw": {
+   "id": "fe94e286-24ba-4fdd-aa35-bc97190dbc50",
+   "name": "Goat Padel",
+   "cp": "07140",
+   "city": "Chambonas",
+   "dept": "07",
+   "metro": "lyon",
+   "lat": -21.0477534,
+   "lng": 55.2218964,
+   "website": null
+  }
+ },
+ {
   "slug": "doinsport-97b9d28a-6c9f-4f37-a466-058ab489e0db",
   "source": "doinsport",
   "name": "Golden Point Padel Academy",
@@ -4308,7 +4330,7 @@
    "metro": "toulouse",
    "lat": 43.5221852,
    "lng": 1.4076378,
-   "website": null
+   "website": "https://meet-padel.fr"
   }
  },
  {
