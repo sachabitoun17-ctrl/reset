@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T13:27:34.112878",
+ "generated_at": "2026-09-10T17:08:39.531723",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -53,6 +53,16 @@
    "direction": "hausse"
   },
   {
+   "slug": "4padel-antony-morangis",
+   "source": "anybuddy",
+   "name": "4padel-antony-morangis",
+   "cp": "92160",
+   "prix_30j": 48.0,
+   "prix_recent": 72.0,
+   "delta_pct": 50.0,
+   "direction": "hausse"
+  },
+  {
    "slug": "4padel-torcy-vaires-sur-marne",
    "source": "anybuddy",
    "name": "4padel-torcy-vaires-sur-marne",
@@ -83,20 +93,20 @@
    "direction": "hausse"
   },
   {
-   "slug": "4padel-antony-morangis",
+   "slug": "4padel-le-five-champigny-sur-marne",
    "source": "anybuddy",
-   "name": "4padel-antony-morangis",
-   "cp": "92160",
+   "name": "4padel-le-five-champigny-sur-marne",
+   "cp": "94500",
    "prix_30j": 48.0,
    "prix_recent": 66.0,
    "delta_pct": 37.5,
    "direction": "hausse"
   },
   {
-   "slug": "4padel-le-five-champigny-sur-marne",
+   "slug": "le-five-marville-la-courneuve",
    "source": "anybuddy",
-   "name": "4padel-le-five-champigny-sur-marne",
-   "cp": "94500",
+   "name": "le-five-marville-la-courneuve",
+   "cp": "93120",
    "prix_30j": 48.0,
    "prix_recent": 66.0,
    "delta_pct": 37.5,
@@ -1520,9 +1530,9 @@
   }
  ],
  "summary": {
-  "total_anomalies": 99,
+  "total_anomalies": 100,
   "idle_24h": 0,
-  "price_shifts": 12,
+  "price_shifts": 13,
   "volume_drops": 87,
   "new_clubs_14d": 87
  }
