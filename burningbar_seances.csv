@@ -1703,16 +1703,16 @@ date,jour,heure,salle,lieu,cours,statut,places_restantes,capacite,presents,locke
 2026-09-11,Vendredi,13:30,Burning Bar Paris 16,Burning Bar Paris 16,Semi - private reformer Jessika,disponible,,25,0,True,False,2026-09-11 10:50
 2026-09-11,Vendredi,14:30,Burning Bar Paris 16,Burning Bar Paris 16,Full Body On Fire Fleur,disponible,,25,0,True,False,2026-09-11 10:50
 2026-09-11,Vendredi,14:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Orida,disponible,,25,0,True,False,2026-09-11 10:50
-2026-09-11,Vendredi,15:30,Burning Bar Paris 16,Burning Bar Paris 16,Full Body On Fire Fleur,disponible,,25,0,False,False,2026-09-11 10:50
+2026-09-11,Vendredi,15:30,Burning Bar Paris 16,Burning Bar Paris 16,Full Body On Fire Fleur,disponible,,25,0,True,False,2026-09-11 10:50
 2026-09-11,Vendredi,15:30,Burning Bar Paris 16,Burning Bar Paris 16,Full Body On Fire Fleur Burning Bar 16eme Fermé La période de réservation est terminée 16:30 50 min Burning Flow Louise,disponible,,25,0,True,True,2026-09-11 15:28
-2026-09-11,Vendredi,15:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Orida,disponible,,25,0,False,False,2026-09-11 10:50
+2026-09-11,Vendredi,15:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Orida,disponible,,25,0,True,False,2026-09-11 10:50
 2026-09-11,Vendredi,15:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Core Shape Orida Burning Bar 7eme Fermé La période de réservation est terminée 16:30 50 min Burning Barre Audrey,disponible,,25,0,True,True,2026-09-11 15:28
-2026-09-11,Vendredi,16:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Flow Louise,disponible,,25,0,False,False,2026-09-11 10:50
-2026-09-11,Vendredi,16:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Barre Audrey,disponible,,25,0,False,False,2026-09-11 10:50
-2026-09-11,Vendredi,17:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Flow Louise,disponible,,25,0,False,False,2026-09-11 15:28
-2026-09-11,Vendredi,17:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Barre Audrey,disponible,,25,0,False,False,2026-09-11 15:28
-2026-09-11,Vendredi,18:00,Burning Bar Paris 16,Burning Bar Paris 16,Semi - private reformer Léna,disponible,,25,0,False,False,2026-09-11 00:30
-2026-09-11,Vendredi,18:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Ana In English,disponible,,25,0,False,False,2026-09-11 15:28
-2026-09-11,Vendredi,18:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Flow Marine,disponible,,25,0,False,False,2026-09-11 15:28
-2026-09-11,Vendredi,19:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Ana In English,disponible,,25,0,False,False,2026-09-11 15:28
-2026-09-11,Vendredi,19:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Flow Marine,disponible,,25,0,False,False,2026-09-11 15:28
+2026-09-11,Vendredi,16:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Flow Louise,disponible,,25,0,True,False,2026-09-11 10:50
+2026-09-11,Vendredi,16:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Barre Audrey,disponible,,25,0,True,False,2026-09-11 10:50
+2026-09-11,Vendredi,17:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Flow Louise,disponible,,25,0,True,False,2026-09-11 15:28
+2026-09-11,Vendredi,17:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Barre Audrey,disponible,,25,0,True,False,2026-09-11 15:28
+2026-09-11,Vendredi,18:00,Burning Bar Paris 16,Burning Bar Paris 16,Semi - private reformer Léna,disponible,,25,0,True,False,2026-09-11 00:30
+2026-09-11,Vendredi,18:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Ana In English,disponible,,25,0,True,False,2026-09-11 15:28
+2026-09-11,Vendredi,18:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Flow Marine,disponible,,25,0,True,False,2026-09-11 15:28
+2026-09-11,Vendredi,19:30,Burning Bar Paris 16,Burning Bar Paris 16,Burning Core Shape Ana In English,disponible,,25,0,False,False,2026-09-11 19:10
+2026-09-11,Vendredi,19:30,Burning Bar Paris 7,Burning Bar Paris 7,Burning Flow Marine,disponible,,25,0,False,False,2026-09-11 19:10
