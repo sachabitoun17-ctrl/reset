@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T14:13:03.926828",
+ "generated_at": "2026-09-11T17:53:13.926523",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -23,6 +23,16 @@
    "direction": "hausse"
   },
   {
+   "slug": "4-padel-montreuil",
+   "source": "anybuddy",
+   "name": "4-padel-montreuil",
+   "cp": "93100",
+   "prix_30j": 48.0,
+   "prix_recent": 84.0,
+   "delta_pct": 75.0,
+   "direction": "hausse"
+  },
+  {
    "slug": "4padel-epinay-sur-seine",
    "source": "anybuddy",
    "name": "4padel-epinay-sur-seine",
@@ -40,16 +50,6 @@
    "prix_30j": 48.0,
    "prix_recent": 77.3,
    "delta_pct": 61.1,
-   "direction": "hausse"
-  },
-  {
-   "slug": "4-padel-montreuil",
-   "source": "anybuddy",
-   "name": "4-padel-montreuil",
-   "cp": "93100",
-   "prix_30j": 48.0,
-   "prix_recent": 76.0,
-   "delta_pct": 58.3,
    "direction": "hausse"
   },
   {
