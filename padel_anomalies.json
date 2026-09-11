@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T09:59:25.272252",
+ "generated_at": "2026-09-11T14:13:03.926828",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -20,16 +20,6 @@
    "prix_30j": 36.0,
    "prix_recent": 72.0,
    "delta_pct": 100.0,
-   "direction": "hausse"
-  },
-  {
-   "slug": "4padel-creteil",
-   "source": "anybuddy",
-   "name": "4padel-creteil",
-   "cp": "94000",
-   "prix_30j": 48.0,
-   "prix_recent": 78.0,
-   "delta_pct": 62.5,
    "direction": "hausse"
   },
   {
@@ -90,6 +80,16 @@
    "prix_30j": 48.0,
    "prix_recent": 70.7,
    "delta_pct": 47.2,
+   "direction": "hausse"
+  },
+  {
+   "slug": "4padel-creteil",
+   "source": "anybuddy",
+   "name": "4padel-creteil",
+   "cp": "94000",
+   "prix_30j": 48.0,
+   "prix_recent": 66.0,
+   "delta_pct": 37.5,
    "direction": "hausse"
   },
   {
