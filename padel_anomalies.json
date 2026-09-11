@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T17:53:13.926523",
+ "generated_at": "2026-09-11T20:44:10.650513",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -80,6 +80,16 @@
    "prix_30j": 48.0,
    "prix_recent": 70.7,
    "delta_pct": 47.2,
+   "direction": "hausse"
+  },
+  {
+   "slug": "4padel-argenteuil",
+   "source": "anybuddy",
+   "name": "4padel-argenteuil",
+   "cp": "95100",
+   "prix_30j": 48.0,
+   "prix_recent": 66.0,
+   "delta_pct": 37.5,
    "direction": "hausse"
   },
   {
@@ -1550,9 +1560,9 @@
   }
  ],
  "summary": {
-  "total_anomalies": 102,
+  "total_anomalies": 103,
   "idle_24h": 0,
-  "price_shifts": 15,
+  "price_shifts": 16,
   "volume_drops": 87,
   "new_clubs_14d": 87
  }
