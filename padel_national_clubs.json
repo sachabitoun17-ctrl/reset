@@ -2068,6 +2068,28 @@
   }
  },
  {
+  "slug": "doinsport-65f6f217-3f8e-4e91-b952-e58105c4ac9b",
+  "source": "doinsport",
+  "name": "Eden Padel",
+  "cp": "42800",
+  "city": "Saint-Joseph",
+  "dept": "42",
+  "metro": "lyon",
+  "lat": 45.5437228,
+  "lng": 4.6338768,
+  "raw": {
+   "id": "65f6f217-3f8e-4e91-b952-e58105c4ac9b",
+   "name": "Eden Padel",
+   "cp": "42800",
+   "city": "Saint-Joseph",
+   "dept": "42",
+   "metro": "lyon",
+   "lat": 45.5437228,
+   "lng": 4.6338768,
+   "website": null
+  }
+ },
+ {
   "slug": "doinsport-34d55605-99c0-4f80-bf78-e854b00a79be",
   "source": "doinsport",
   "name": "ELEVATION INDOOR",
@@ -7806,6 +7828,28 @@
    "metro": "marseille",
    "lat": 43.1351451,
    "lng": 5.743462,
+   "website": null
+  }
+ },
+ {
+  "slug": "doinsport-53609784-ff1d-4920-8324-370a4d74d598",
+  "source": "doinsport",
+  "name": "Tennis Padel  Six-Fours",
+  "cp": "83140",
+  "city": "Six-Fours-les-Plages",
+  "dept": "83",
+  "metro": "marseille",
+  "lat": 43.0965533,
+  "lng": 5.8307682,
+  "raw": {
+   "id": "53609784-ff1d-4920-8324-370a4d74d598",
+   "name": "Tennis Padel  Six-Fours",
+   "cp": "83140",
+   "city": "Six-Fours-les-Plages",
+   "dept": "83",
+   "metro": "marseille",
+   "lat": 43.0965533,
+   "lng": 5.8307682,
    "website": null
   }
  },
