@@ -1,6 +1,15 @@
 {
- "generated_at": "2026-09-12T11:11:00.441963",
- "idle_24h": [],
+ "generated_at": "2026-09-12T14:20:59.097546",
+ "idle_24h": [
+  {
+   "slug": "doinsport-fe8883b8-dd75-4f72-96d8-1a448611a164",
+   "source": "doinsport",
+   "name": "FIVE ARENA",
+   "cp": "77100",
+   "last_seen": "2026-09-10 21:59",
+   "hours_idle": 40.4
+  }
+ ],
  "price_shifts": [
   {
    "slug": "doinsport-59044915-a142-4f27-a8f4-433b199d73d5",
@@ -30,16 +39,6 @@
    "prix_30j": 48.0,
    "prix_recent": 78.0,
    "delta_pct": 62.5,
-   "direction": "hausse"
-  },
-  {
-   "slug": "4-padel-saint-ouen-saint-ouen-sur-seine",
-   "source": "anybuddy",
-   "name": "4-padel-saint-ouen-saint-ouen-sur-seine",
-   "cp": "93400",
-   "prix_30j": 48.0,
-   "prix_recent": 77.3,
-   "delta_pct": 61.1,
    "direction": "hausse"
   },
   {
@@ -73,13 +72,13 @@
    "direction": "hausse"
   },
   {
-   "slug": "4padel-argenteuil",
+   "slug": "4-padel-saint-ouen-saint-ouen-sur-seine",
    "source": "anybuddy",
-   "name": "4padel-argenteuil",
-   "cp": "95100",
+   "name": "4-padel-saint-ouen-saint-ouen-sur-seine",
+   "cp": "93400",
    "prix_30j": 48.0,
-   "prix_recent": 66.0,
-   "delta_pct": 37.5,
+   "prix_recent": 70.7,
+   "delta_pct": 47.2,
    "direction": "hausse"
   },
   {
@@ -1551,8 +1550,8 @@
  ],
  "summary": {
   "total_anomalies": 102,
-  "idle_24h": 0,
-  "price_shifts": 15,
+  "idle_24h": 1,
+  "price_shifts": 14,
   "volume_drops": 87,
   "new_clubs_14d": 87
  }
