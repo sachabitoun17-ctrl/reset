@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T06:19:13.331627",
+ "generated_at": "2026-09-12T11:11:00.441963",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -63,16 +63,6 @@
    "direction": "hausse"
   },
   {
-   "slug": "4padel-argenteuil",
-   "source": "anybuddy",
-   "name": "4padel-argenteuil",
-   "cp": "95100",
-   "prix_30j": 48.0,
-   "prix_recent": 72.0,
-   "delta_pct": 50.0,
-   "direction": "hausse"
-  },
-  {
    "slug": "4padel-torcy-vaires-sur-marne",
    "source": "anybuddy",
    "name": "4padel-torcy-vaires-sur-marne",
@@ -80,6 +70,16 @@
    "prix_30j": 48.0,
    "prix_recent": 72.0,
    "delta_pct": 50.0,
+   "direction": "hausse"
+  },
+  {
+   "slug": "4padel-argenteuil",
+   "source": "anybuddy",
+   "name": "4padel-argenteuil",
+   "cp": "95100",
+   "prix_30j": 48.0,
+   "prix_recent": 66.0,
+   "delta_pct": 37.5,
    "direction": "hausse"
   },
   {
