@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T17:25:04.611370",
+ "generated_at": "2026-09-12T19:37:42.783271",
  "idle_24h": [],
  "price_shifts": [
   {
@@ -33,6 +33,16 @@
    "direction": "hausse"
   },
   {
+   "slug": "4-padel-saint-ouen-saint-ouen-sur-seine",
+   "source": "anybuddy",
+   "name": "4-padel-saint-ouen-saint-ouen-sur-seine",
+   "cp": "93400",
+   "prix_30j": 48.0,
+   "prix_recent": 77.3,
+   "delta_pct": 61.1,
+   "direction": "hausse"
+  },
+  {
    "slug": "4padel-cao-saint-denis",
    "source": "anybuddy",
    "name": "4padel-cao-saint-denis",
@@ -60,16 +70,6 @@
    "prix_30j": 48.0,
    "prix_recent": 72.0,
    "delta_pct": 50.0,
-   "direction": "hausse"
-  },
-  {
-   "slug": "4-padel-saint-ouen-saint-ouen-sur-seine",
-   "source": "anybuddy",
-   "name": "4-padel-saint-ouen-saint-ouen-sur-seine",
-   "cp": "93400",
-   "prix_30j": 48.0,
-   "prix_recent": 70.7,
-   "delta_pct": 47.2,
    "direction": "hausse"
   },
   {
