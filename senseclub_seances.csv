@@ -843,9 +843,9 @@ date,jour,heure,cours,coach,statut,places_restantes,presents,locked,releve
 2026-09-12,Samedi,11:00,Power Sense,Full Body Raphaëlle,presque complet,1,4,True,2026-09-12 10:34
 2026-09-12,Samedi,12:00,Sense Flow,Full Body Anna,disponible,,,True,2026-09-12 10:34
 2026-09-12,Samedi,13:00,Power Sense,Full Body Anna,disponible,,,True,2026-09-12 10:34
-2026-09-12,Samedi,15:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach Afficher les détails Sense Club Rejoindre la liste d'attente 16:30 50 min Power Sense - Full Body Alexandre - Head Coach,,disponible,,,False,2026-09-12 10:34
-2026-09-12,Samedi,15:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach,,complet,0,5,False,2026-09-12 14:48
-2026-09-12,Samedi,16:30,Power Sense,Full Body Alexandre,disponible,,,False,2026-09-12 14:48
-2026-09-12,Samedi,17:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach,,disponible,,,False,2026-09-12 10:34
-2026-09-12,Samedi,17:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach Afficher les détails Sense Club Rejoindre la liste d'attente 18:30 50 min Power Sense - Full Body Alexandre - Head Coach,,disponible,,,False,2026-09-12 14:48
-2026-09-12,Samedi,18:30,Power Sense,Full Body Alexandre,disponible,,,False,2026-09-12 10:34
+2026-09-12,Samedi,15:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach,,complet,0,5,True,2026-09-12 14:48
+2026-09-12,Samedi,15:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach Afficher les détails Sense Club Rejoindre la liste d'attente 16:30 50 min Power Sense - Full Body Alexandre - Head Coach,,disponible,,,True,2026-09-12 10:34
+2026-09-12,Samedi,16:30,Power Sense,Full Body Alexandre,disponible,,,True,2026-09-12 14:48
+2026-09-12,Samedi,17:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach,,disponible,,,True,2026-09-12 10:34
+2026-09-12,Samedi,17:30,Sense Sculpt - Booty & Abs Alexandre - Head Coach Afficher les détails Sense Club Rejoindre la liste d'attente 18:30 50 min Power Sense - Full Body Alexandre - Head Coach,,disponible,,,True,2026-09-12 14:48
+2026-09-12,Samedi,18:30,Power Sense,Full Body Alexandre,complet,0,5,False,2026-09-12 18:10
